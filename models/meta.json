@@ -1,0 +1,49 @@
+{
+  "best_model": "XGBoost",
+  "metrics": {
+    "MAE (PKR)": 4223095.776723657,
+    "RMSE (PKR)": 10811661.012396574,
+    "R2 (PKR)": 0.9110833700657297,
+    "R2 (log)": 0.936094898141454,
+    "RMSE (log)": 0.24598418848047995,
+    "MedAPE (%)": 12.950508148148199,
+    "MAPE (%)": 18.43869916550803,
+    "CV RMSE (log)": 0.26303798601275086,
+    "Train time (s)": 11.093078136444092
+  },
+  "residual_q10": -0.2741954498590733,
+  "residual_q90": 0.2670737829013426,
+  "property_types": [
+    "Farm House",
+    "Flat",
+    "House",
+    "Lower Portion",
+    "Penthouse",
+    "Room",
+    "Upper Portion"
+  ],
+  "city_centers": {
+    "Faisalabad": [
+      31.424993651645,
+      73.115802
+    ],
+    "Islamabad": [
+      33.650458,
+      73.065948
+    ],
+    "Karachi": [
+      24.916721,
+      67.072266
+    ],
+    "Lahore": [
+      31.469155,
+      74.305515
+    ],
+    "Rawalpindi": [
+      33.55892,
+      73.08393
+    ]
+  },
+  "trained_on_rows": 64452,
+  "xgboost_used": true
+}

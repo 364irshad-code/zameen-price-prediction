@@ -1,0 +1,929 @@
+city,location,locality,latitude,longitude,listings,median_psf
+Faisalabad,204 Chak Road,204 Chak Road | Faisalabad,31.404153,73.136959,7,6611.570247933884
+Faisalabad,Abdullahpur,Abdullahpur | Faisalabad,31.423683,73.10636,7,6244.260789715335
+Faisalabad,Ahmadabad,Ahmadabad | Faisalabad,31.445433,73.109622,11,5509.641873278237
+Faisalabad,Air Avenue City,Air Avenue City | Faisalabad,31.391487,72.995389,7,7215.007215007216
+Faisalabad,Al Fayaz Colony,Al Fayaz Colony | Faisalabad,31.395439,73.110849,6,8570.55402509948
+Faisalabad,Al Najaf Colony,Al Najaf Colony | Faisalabad,31.40288,73.122153,10,6657.483930211203
+Faisalabad,Al Noor Garden,Al Noor Garden | Faisalabad,31.421522,73.139779,45,6887.052341597796
+Faisalabad,Ali Garden,Ali Garden | Faisalabad,31.381594,72.979866,6,4932.441296077659
+Faisalabad,Ali Housing Colony,Ali Housing Colony | Faisalabad,31.40896,73.037574,10,6389.25136532792
+Faisalabad,Allama Iqbal Colony,Allama Iqbal Colony | Faisalabad,31.386358,73.083158,7,4706.152433425161
+Faisalabad,Amin Town,Amin Town | Faisalabad,31.442321,73.128126,20,7280.598189689099
+Faisalabad,Ayub Colony,Ayub Colony | Faisalabad,31.405993,73.055134,5,7346.189164370982
+Faisalabad,Bakar Mandi Road,Bakar Mandi Road | Faisalabad,31.413626,73.052087,11,3673.094582185491
+Faisalabad,Bawa Chack 120 JB,Bawa Chack 120 JB | Faisalabad,31.478758,73.080435,8,3877.7384231929686
+Faisalabad,Canal Expressway,Canal Expressway | Faisalabad,31.455928,73.175679,9,6121.824303642486
+Faisalabad,Canal Park,Canal Park | Faisalabad,31.401256,73.080894,7,9324.009324009325
+Faisalabad,Canal Road,Canal Road | Faisalabad,31.431648,73.155627,129,8080.80808080808
+Faisalabad,Chak 208 Road,Chak 208 Road | Faisalabad,31.434052402588,73.14558336279299,6,6952.64331627968
+Faisalabad,Chak 209 RB Akalgarh,Chak 209 RB Akalgarh | Faisalabad,31.413841,73.180059,5,2223.1888260596397
+Faisalabad,Chenab Gardens,Chenab Gardens | Faisalabad,31.346967,73.077707,6,3355.371900826446
+Faisalabad,Citi Housing Society,Citi Housing Society | Faisalabad,31.53292,73.065687,13,6097.337006427915
+Faisalabad,Civil Lines,Civil Lines | Faisalabad,31.440088,73.085039,15,6887.052341597796
+Faisalabad,D Ground,D Ground | Faisalabad,31.406213,73.107269,6,12068.739341466615
+Faisalabad,D Type Colony,D Type Colony | Faisalabad,31.380643,73.080497,18,6900.170536534173
+Faisalabad,Daewoo Road,Daewoo Road | Faisalabad,31.470082,73.068243,7,5142.332415059688
+Faisalabad,Daniyal Town,Daniyal Town | Faisalabad,31.377251,73.116134,7,3673.094582185491
+Faisalabad,Dhudi Wala,Dhudi Wala | Faisalabad,31.403612,73.149891,8,3673.094582185491
+Faisalabad,Eden Gardens,Eden Gardens | Faisalabad,31.425441,73.145077,106,7346.189164370982
+Faisalabad,Eden Orchard,Eden Orchard | Faisalabad,31.484528,73.085066,36,6978.879706152434
+Faisalabad,Eden Valley,Eden Valley | Faisalabad,31.436061,73.154585,139,9182.736455463728
+Faisalabad,Faisal Town,Faisal Town | Faisalabad,31.458576,73.160355,6,7897.153351698807
+Faisalabad,Farooqabad,Farooqabad | Faisalabad,31.43086,73.118033,8,3883.6853382307927
+Faisalabad,Four Season Housing,Four Season Housing | Faisalabad,31.343192,73.064783,34,6611.570247933884
+Faisalabad,Garden Colony,Garden Colony | Faisalabad,31.397495,73.105595,5,7346.189164370982
+Faisalabad,Gatwala Chowk,Gatwala Chowk | Faisalabad,31.466749,73.191842,6,4071.013161922253
+Faisalabad,Ghalib City,Ghalib City | Faisalabad,31.421539,73.14799,18,5693.2966023875115
+Faisalabad,Ghulam Mohammad Abad,Ghulam Mohammad Abad | Faisalabad,31.44082,73.043532,33,8395.644759281124
+Faisalabad,Green Town,Green Town | Faisalabad,31.46328,73.097187,36,5289.256198347108
+Faisalabad,Green View Colony,Green View Colony | Faisalabad,31.445021,73.071737,12,6165.551620097074
+Faisalabad,Gulbahar Colony,Gulbahar Colony | Faisalabad,31.399803,73.106446,6,6493.506493506493
+Faisalabad,Gulberg,Gulberg | Faisalabad,31.424598,73.061435,14,11019.283746556473
+Faisalabad,Gulberg Valley,Gulberg Valley | Faisalabad,31.40758,73.155067,8,7037.3153017781115
+Faisalabad,Gulfishan Colony,Gulfishan Colony | Faisalabad,31.405993,73.04251,21,5843.559562567826
+Faisalabad,Gulistan Colony No 1,Gulistan Colony No 1 | Faisalabad,31.441735,73.100789,20,7346.189164370982
+Faisalabad,Gulistan Colony No 2,Gulistan Colony No 2 | Faisalabad,31.447154,73.09375,5,7870.916961826053
+Faisalabad,Gulshan Colony,Gulshan Colony | Faisalabad,31.431858,73.054833,6,9864.88259215532
+Faisalabad,Gulshan Rehman,Gulshan Rehman | Faisalabad,31.386574,73.117722,5,7346.189164370982
+Faisalabad,Gulshan e Madina,Gulshan e Madina | Faisalabad,31.421696,73.118615,16,7038.511500817488
+Faisalabad,Gulshan-e-Haram,Gulshan-e-Haram | Faisalabad,31.364194,73.062459,7,6121.824303642486
+Faisalabad,Gulshan-e-Hayat,Gulshan-e-Hayat | Faisalabad,31.41578,73.045905,7,9182.736455463728
+Faisalabad,Gulshan-e-Rafique,Gulshan-e-Rafique | Faisalabad,31.374964,73.064997,5,6887.052341597796
+Faisalabad,Haji Abad,Haji Abad | Faisalabad,31.495707,73.335301,5,4775.022956841139
+Faisalabad,Hilal Road,Hilal Road | Faisalabad,31.386351,73.099423,8,5509.641873278237
+Faisalabad,Ideal Town,Ideal Town | Faisalabad,31.473263,73.077405,6,5693.2966023875115
+Faisalabad,Ismail Valley,Ismail Valley | Faisalabad,31.492433,73.058345,6,6102.584284402466
+Faisalabad,Jail Road,Jail Road | Faisalabad,31.442413,73.081416,5,7870.916961826053
+Faisalabad,Jaranwala,Jaranwala | Faisalabad,31.334285,73.419542,10,4770.059315513861
+Faisalabad,Jaranwala Road,Jaranwala Road | Faisalabad,31.403427,73.138339,43,4040.40404040404
+Faisalabad,Jhang Road,Jhang Road | Faisalabad,31.40016,73.030949,31,6611.570247933884
+Faisalabad,Jhumra Road,Jhumra Road | Faisalabad,31.470089,73.131566,12,3934.8025711662076
+Faisalabad,Jinnah Colony,Jinnah Colony | Faisalabad,31.420424,73.068065,5,11478.420569329659
+Faisalabad,Johar Colony,Johar Colony | Faisalabad,31.457627,73.106444,6,4836.241199877564
+Faisalabad,Kaleem Shaheed Colony No 1,Kaleem Shaheed Colony No 1 | Faisalabad,31.432764,73.039556,10,6550.35200489746
+Faisalabad,Kaleem Shaheed Colony No 2,Kaleem Shaheed Colony No 2 | Faisalabad,31.435291,73.026674,8,5779.956193179334
+Faisalabad,Kareem City,Kareem City | Faisalabad,31.476118,73.064514,5,6244.260789715335
+Faisalabad,Khalid Abad,Khalid Abad | Faisalabad,31.410498,73.071685,6,9044.995408631772
+Faisalabad,Khayaban Colony,Khayaban Colony | Faisalabad,31.427272,73.135886,28,5786.474369362069
+Faisalabad,Khayaban Colony 2,Khayaban Colony 2 | Faisalabad,31.427601,73.13118,28,5876.951331496786
+Faisalabad,Khayaban Gardens,Khayaban Gardens | Faisalabad,31.473328,73.089108,13,7958.371594735231
+Faisalabad,Khurianwala,Khurianwala | Faisalabad,31.497037,73.27109,7,3339.1768928959013
+Faisalabad,Kohinoor Town,Kohinoor Town | Faisalabad,31.415799,73.117983,7,17106.126197035286
+Faisalabad,Lahore - Sheikhupura - Faisalabad Road,Lahore - Sheikhupura - Faisalabad Road | Faisalabad,31.463244,73.16133,26,5254.565860626466
+Faisalabad,Lasani Garden,Lasani Garden | Faisalabad,31.457771,73.071649,5,8417.508417508418
+Faisalabad,Lasani Town,Lasani Town | Faisalabad,31.463701,73.077271,10,7611.4682175288235
+Faisalabad,Latif Garden,Latif Garden | Faisalabad,31.466705,73.177667,6,3073.155800428528
+Faisalabad,Liaquat Town,Liaquat Town | Faisalabad,31.414637,73.049119,5,7382.9201101928375
+Faisalabad,Madina Town,Madina Town | Faisalabad,31.41764,73.120401,94,7346.189164370982
+Faisalabad,Mahmoodabad,Mahmoodabad | Faisalabad,31.4313,73.103356,5,7346.189164370982
+Faisalabad,Makkah Garden,Makkah Garden | Faisalabad,31.508298,73.067842,14,6978.879706152434
+Faisalabad,Manawala,Manawala | Faisalabad,31.46059,73.139663,16,4199.571472298745
+Faisalabad,Mansoorabad,Mansoorabad | Faisalabad,31.435657,73.118598,27,5968.778696051423
+Faisalabad,Millat Road,Millat Road | Faisalabad,31.452515,73.09865,42,5305.58106315682
+Faisalabad,Millat Town,Millat Town | Faisalabad,31.493164,73.102634,48,4110.367746731383
+Faisalabad,Muslim Town,Muslim Town | Faisalabad,31.461541,73.086584,35,6398.293788323113
+Faisalabad,Narwala Road,Narwala Road | Faisalabad,31.440014,73.022161,17,5050.50505050505
+Faisalabad,Nazimabad,Nazimabad | Faisalabad,31.408594,73.068602,10,10239.244843350414
+Faisalabad,Nemat Colony No 1,Nemat Colony No 1 | Faisalabad,31.411524,73.123183,8,6060.60606060606
+Faisalabad,Nemat Colony No 2,Nemat Colony No 2 | Faisalabad,31.410645,73.126874,10,6213.6516681971225
+Faisalabad,New Garden Town,New Garden Town | Faisalabad,31.392333,73.108184,5,5876.951331496786
+Faisalabad,Nisar Colony,Nisar Colony | Faisalabad,31.379581,73.065255,47,6734.006734006734
+Faisalabad,Nishatabad,Nishatabad | Faisalabad,31.45173,73.117089,21,4113.86593204775
+Faisalabad,Officers Colony,Officers Colony | Faisalabad,31.429589,73.142782,40,7346.189164370982
+Faisalabad,Others,Others | Faisalabad,31.4187,73.0791,44,5509.641873278237
+Faisalabad,Paradise Valley,Paradise Valley | Faisalabad,31.473035,73.195024,6,9871.441689623509
+Faisalabad,Peoples Colony No 1,Peoples Colony No 1 | Faisalabad,31.410645,73.108077,48,10191.828373646555
+Faisalabad,Peoples Colony No 2,Peoples Colony No 2 | Faisalabad,31.398118,73.096833,39,6427.9155188246095
+Faisalabad,Punjab Govt. Servants Housing Foundation,Punjab Govt. Servants Housing Foundation | Faisalabad,31.367585,73.137177,12,4040.40404040404
+Faisalabad,Rabbani Colony,Rabbani Colony | Faisalabad,31.389472,73.106618,6,5853.994490358127
+Faisalabad,Rachna Town,Rachna Town | Faisalabad,31.390571,73.115802,17,6244.260789715335
+Faisalabad,Raheem Gardens,Raheem Gardens | Faisalabad,31.372619,73.057237,6,4472.984517330416
+Faisalabad,Rasool Park,Rasool Park | Faisalabad,31.418482,73.13314,6,5509.641873278237
+Faisalabad,Raza Abad,Raza Abad | Faisalabad,31.42599,73.048217,11,7346.189164370982
+Faisalabad,Raza Garden,Raza Garden | Faisalabad,31.451813,73.161905,9,9182.736455463728
+Faisalabad,Rehman Gardens,Rehman Gardens | Faisalabad,31.386322,73.126273,9,5509.641873278237
+Faisalabad,Rehman Villas,Rehman Villas | Faisalabad,31.367676,73.134282,5,5876.951331496786
+Faisalabad,Riaz ul Jannah,Riaz ul Jannah | Faisalabad,31.47668,73.063024,10,5739.21028466483
+Faisalabad,SMD Homes,SMD Homes | Faisalabad,31.487271,73.090933,5,4775.022956841139
+Faisalabad,Saeed Colony,Saeed Colony | Faisalabad,31.434925,73.129199,22,7346.189164370982
+Faisalabad,Samanabad,Samanabad | Faisalabad,31.389912,73.068852,24,8080.80808080808
+Faisalabad,Samundari Road,Samundari Road | Faisalabad,31.365092,73.075386,103,5142.332415059688
+Faisalabad,Sargodha Road,Sargodha Road | Faisalabad,31.444042,73.088565,36,5894.442258078621
+Faisalabad,Satiana Road,Satiana Road | Faisalabad,31.37861,73.129245,183,6170.798898071625
+Faisalabad,Shadab Colony,Shadab Colony | Faisalabad,31.40559,73.035944,10,5509.641873278237
+Faisalabad,Shadman Colony,Shadman Colony | Faisalabad,31.399656,73.115029,9,6045.301499846954
+Faisalabad,Shahbaz Town,Shahbaz Town | Faisalabad,31.413465,73.03899,11,7346.189164370982
+Faisalabad,Shahzad Colony,Shahzad Colony | Faisalabad,31.395879,73.111181,6,6764.615855524946
+Faisalabad,Shalimar Park,Shalimar Park | Faisalabad,31.376022,73.091042,12,5075.54887720177
+Faisalabad,Sheikh Colony,Sheikh Colony | Faisalabad,31.411157,73.044569,17,7346.189164370982
+Faisalabad,Sir Syed Town,Sir Syed Town | Faisalabad,31.405004,73.07795,13,9794.918885827976
+Faisalabad,Sitara Colony,Sitara Colony | Faisalabad,31.372253,73.03658,9,4443.259575224384
+Faisalabad,Sitara Sapna City,Sitara Sapna City | Faisalabad,31.461569,73.063812,7,11019.283746556473
+Faisalabad,Susan Road,Susan Road | Faisalabad,31.421993,73.117657,14,8829.554284099739
+Faisalabad,Tariqabad,Tariqabad | Faisalabad,31.425221,73.102255,8,6889.292033416203
+Faisalabad,Usman Town,Usman Town | Faisalabad,31.45994,73.099787,11,5488.53213430016
+Faisalabad,Wapda City,Wapda City | Faisalabad,31.502824,73.21435,125,5876.951331496786
+Faisalabad,Waris Pura,Waris Pura | Faisalabad,31.381486,73.096232,7,4407.713498622589
+Faisalabad,Younas Town,Younas Town | Faisalabad,31.382585,73.123012,5,5693.2966023875115
+Faisalabad,Yousaf Town,Yousaf Town | Faisalabad,31.513081,73.064791,16,5325.987144168963
+Faisalabad,Zia Colony,Zia Colony | Faisalabad,31.441479,73.142581,6,6684.491978609625
+Islamabad,7th Avenue,7th Avenue | Islamabad,33.718646,73.070927,5,16116.639493262868
+Islamabad,9th Avenue,9th Avenue | Islamabad,33.687809,73.045263,6,12809.003650251954
+Islamabad,AGHOSH,AGHOSH | Islamabad,33.555916,73.146372,5,4591.368227731864
+Islamabad,Abdullah Garden,Abdullah Garden | Islamabad,33.634773754186,72.98415184021,6,8211.990030171848
+Islamabad,Airport Enclave,Airport Enclave | Islamabad,33.598178,72.852359,5,6427.9155188246095
+Islamabad,Al Huda Town,Al Huda Town | Islamabad,33.641419,73.197355,6,5004.591368227731
+Islamabad,Ali Pur,Ali Pur | Islamabad,33.644278,73.173237,30,3412.9170492806857
+Islamabad,Alipur Farash,Alipur Farash | Islamabad,33.65069,73.202934,28,4285.27701254974
+Islamabad,Arsalan Town,Arsalan Town | Islamabad,33.642491,73.213663,20,3803.1833486378937
+Islamabad,B-17,B-17 | Islamabad,33.68064,72.822189,295,5173.372650965481
+Islamabad,Bahria Town,Bahria Town | Islamabad,33.685404,73.218813,612,8306.202521078554
+Islamabad,Bani Gala,Bani Gala | Islamabad,33.713488,73.16268,317,5325.987144168962
+Islamabad,Bhara kahu,Bhara kahu | Islamabad,33.737402,73.179159,217,4092.8768201495473
+Islamabad,Blue Area,Blue Area | Islamabad,33.713845,73.06097,14,17122.55706746065
+Islamabad,Burma Town,Burma Town | Islamabad,33.643635,73.125243,54,4077.134986225895
+Islamabad,C-18,C-18 | Islamabad,33.668354,72.826567,11,5142.332415059688
+Islamabad,CBR Town,CBR Town | Islamabad,33.559385,73.141265,179,6887.052341597796
+Islamabad,Chak Shahzad,Chak Shahzad | Islamabad,33.658353,73.144054,18,6438.31667662206
+Islamabad,Chatha Bakhtawar,Chatha Bakhtawar | Islamabad,33.66647,73.153934,39,5876.951331496786
+Islamabad,Chattar,Chattar | Islamabad,33.779609,73.24023,11,3367.003367003367
+Islamabad,D-12,D-12 | Islamabad,33.701636,72.948532,166,15304.560759106214
+Islamabad,D-17,D-17 | Islamabad,33.659746,72.860341,161,4739.476880239343
+Islamabad,D-18,D-18 | Islamabad,33.653316,72.8410255,6,4170.492806856443
+Islamabad,DHA Defence,DHA Defence | Islamabad,33.527944,73.161392,1153,6177.477251857417
+Islamabad,Diplomatic Enclave,Diplomatic Enclave | Islamabad,33.728873,73.119628,50,17488.938976542282
+Islamabad,E-11,E-11 | Islamabad,33.698137,72.978215,627,10101.0101010101
+Islamabad,E-14,E-14 | Islamabad,33.66964,72.923294,8,3011.937557392103
+Islamabad,E-16,E-16 | Islamabad,33.652816,72.881885,7,4722.550177095632
+Islamabad,E-18,E-18 | Islamabad,33.631987,72.853518,15,3489.439853076217
+Islamabad,E-7,E-7 | Islamabad,33.727409,73.047581,33,18365.472910927456
+Islamabad,Emaar Canyon Views,Emaar Canyon Views | Islamabad,33.518929,73.184692,26,4998.906817088635
+Islamabad,F-10,F-10 | Islamabad,33.691531,73.005431,369,13391.490664217938
+Islamabad,F-11,F-11 | Islamabad,33.683532,72.99041,527,10242.282969555697
+Islamabad,F-15,F-15 | Islamabad,33.639383,72.918105,19,8264.462809917355
+Islamabad,F-17,F-17 | Islamabad,33.631987,72.880297,121,6427.9155188246095
+Islamabad,F-6,F-6 | Islamabad,33.730907,73.074431,150,16069.788797061525
+Islamabad,F-7,F-7 | Islamabad,33.720413,73.056493,175,16246.379882743518
+Islamabad,F-8,F-8 | Islamabad,33.713131,73.038383,253,16528.92561983471
+Islamabad,FECHS,FECHS | Islamabad,33.572008,73.174596,119,6034.369670733307
+Islamabad,Faisal Town - F-18,Faisal Town - F-18 | Islamabad,33.616692,72.858996,26,7116.62075298439
+Islamabad,Fateh Jang Road,Fateh Jang Road | Islamabad,33.596402,72.828245,7,4652.586470768289
+Islamabad,Frash Town,Frash Town | Islamabad,33.652051,73.203666,5,4652.586470768289
+Islamabad,G-10,G-10 | Islamabad,33.676104,73.013842,207,11786.79604731165
+Islamabad,G-11,G-11 | Islamabad,33.669533,73.000073,538,11285.775748585665
+Islamabad,G-13,G-13 | Islamabad,33.650065,72.96303,715,12593.467138921684
+Islamabad,G-14,G-14 | Islamabad,33.641955,72.952859,54,12104.51623674764
+Islamabad,G-15,G-15 | Islamabad,33.631486,72.926559,368,7346.189164370982
+Islamabad,G-6,G-6 | Islamabad,33.713238,73.08712700000001,48,12174.082422016305
+Islamabad,G-7,G-7 | Islamabad,33.7053855,73.067193,18,9678.395525502963
+Islamabad,G-8,G-8 | Islamabad,33.697423,73.049555,80,13118.194936376756
+Islamabad,G-9,G-9 | Islamabad,33.686496,73.036201,219,12702.785430058157
+Islamabad,GT Road,GT Road | Islamabad,33.523954,73.149059,17,4328.129782675237
+Islamabad,Garden Town,Garden Town | Islamabad,33.636132,73.113921,11,5968.778696051423
+Islamabad,Ghauri Town,Ghauri Town | Islamabad,33.61855,73.130908,510,6244.260789715335
+Islamabad,Golra Mor,Golra Mor | Islamabad,33.625639,72.969872,9,6427.9155188246095
+Islamabad,Green Avenue,Green Avenue | Islamabad,33.668941,73.151413,32,10485.469753474476
+Islamabad,Gulberg,Gulberg | Islamabad,33.60983,73.170133,337,6291.874978743665
+Islamabad,Gulshan-e-Khudadad,Gulshan-e-Khudadad | Islamabad,33.626837,72.98273,11,6611.570247933884
+Islamabad,H-12,H-12 | Islamabad,33.643708000000004,72.9859395,6,4418.570465341956
+Islamabad,H-13,H-13 | Islamabad,33.637489,72.972193,204,5590.100135554681
+Islamabad,H-15,H-15 | Islamabad,33.623339,72.93889,7,4140.579347190917
+Islamabad,I-10,I-10 | Islamabad,33.646421,73.035994,263,11019.283746556473
+Islamabad,I-11,I-11 | Islamabad,33.633018,73.019991,18,4494.761365797307
+Islamabad,I-12,I-12 | Islamabad,33.629628,73.002419,19,3673.094582185491
+Islamabad,I-13,I-13 | Islamabad,33.621213,72.9953305,22,5430.932703659976
+Islamabad,I-14,I-14 | Islamabad,33.609902,72.967386,81,8162.432404856647
+Islamabad,I-16,I-16 | Islamabad,33.598499,72.935607,14,2721.785482317633
+Islamabad,I-8,I-8 | Islamabad,33.66764,73.07416,364,14233.24150596878
+Islamabad,I-9,I-9 | Islamabad,33.653066,73.053846,53,10861.301183881827
+Islamabad,IJP Road,IJP Road | Islamabad,33.635399,73.032571,6,9504.13223140496
+Islamabad,Iqbal Town,Iqbal Town | Islamabad,33.647564,73.104529,6,8264.462809917355
+Islamabad,Islamabad - Murree Expressway,Islamabad - Murree Expressway | Islamabad,33.78771,73.272972106934,25,3776.0785424336827
+Islamabad,Islamabad Expressway,Islamabad Expressway | Islamabad,33.632166,73.111507,41,6220.563405314138
+Islamabad,Islamabad Highway,Islamabad Highway | Islamabad,33.68272,73.073384,28,6136.294070178368
+Islamabad,Jhang Syedan,Jhang Syedan | Islamabad,33.643983,73.208041,13,3966.9421487603304
+Islamabad,Jhangi Syedan,Jhangi Syedan | Islamabad,33.624658,72.943627,30,4086.3177226813586
+Islamabad,Jinnah Avenue,Jinnah Avenue | Islamabad,33.709454,73.055434,6,15399.688472915459
+Islamabad,Karakoram Diplomatic Enclave,Karakoram Diplomatic Enclave | Islamabad,33.724426,73.120331,12,20094.689516177117
+Islamabad,Kashmir Highway,Kashmir Highway | Islamabad,33.600282,72.88833,28,13790.346257878726
+Islamabad,Khanna Pul,Khanna Pul | Islamabad,33.629662,73.112268,23,5509.641873278237
+Islamabad,Koral Chowk,Koral Chowk | Islamabad,33.604816,73.130286,21,4530.149984695439
+Islamabad,Koral Town,Koral Town | Islamabad,33.602038,73.141966,11,4474.497036480508
+Islamabad,Korang Town,Korang Town | Islamabad,33.579034,73.139591,84,6427.9155188246095
+Islamabad,Kuri Road,Kuri Road | Islamabad,33.678171,73.162161,37,5325.987144168962
+Islamabad,Lehtarar Road,Lehtarar Road | Islamabad,33.639311,73.148646,43,3673.094582185491
+Islamabad,Madina Town,Madina Town | Islamabad,33.583344,73.151583,9,4407.713498622589
+Islamabad,Margalla Town,Margalla Town | Islamabad,33.670501432447,73.1061695,20,11662.075298438935
+Islamabad,Marwa Town,Marwa Town | Islamabad,33.62902,73.152889,14,3856.749311294766
+Islamabad,Meherban Colony,Meherban Colony | Islamabad,33.659174,73.150363,8,8080.80808080808
+Islamabad,Motorway Chowk,Motorway Chowk | Islamabad,33.631691,72.938467,7,6023.875114784206
+Islamabad,Multi Residencia & Orchards,Multi Residencia & Orchards | Islamabad,33.718534,72.705518,6,5148.891512527876
+Islamabad,Mumtaz City,Mumtaz City | Islamabad,33.589205,72.860634,5,8034.894398530762
+Islamabad,Murree Road,Murree Road | Islamabad,33.76201,73.217792,5,4980.467230082022
+Islamabad,National Police Foundation,National Police Foundation | Islamabad,33.700462,72.981226,35,5876.951331496786
+Islamabad,National Police Foundation O-9,National Police Foundation O-9 | Islamabad,33.570792,73.13251,95,5509.641873278237
+Islamabad,Naval Anchorage,Naval Anchorage | Islamabad,33.573009,73.198629,58,7183.87459744694
+Islamabad,Naval Farms Housing Scheme,Naval Farms Housing Scheme | Islamabad,33.721306,73.217903,9,2754.8209366391184
+Islamabad,New Shakrial,New Shakrial | Islamabad,33.640419,73.110943,6,4407.713498622589
+Islamabad,Others,Others | Islamabad,33.7294,73.0931,7,5743.38425578095
+Islamabad,PAEC Employees Cooperative Housing Society,PAEC Employees Cooperative Housing Society | Islamabad,33.480561,73.205827,9,3935.4584809130265
+Islamabad,PWD Housing Scheme,PWD Housing Scheme | Islamabad,33.570792,73.145256,176,5703.499642893583
+Islamabad,PWD Road,PWD Road | Islamabad,33.567125,73.134901,23,5134.433286925955
+Islamabad,Pakistan Town,Pakistan Town | Islamabad,33.575405,73.143325,156,5509.641873278237
+Islamabad,Park Road,Park Road | Islamabad,33.66789,73.149333,20,7713.498622589532
+Islamabad,Park View City,Park View City | Islamabad,33.720586,73.222006,10,9550.045913682277
+Islamabad,Pindorian,Pindorian | Islamabad,33.64595,73.117622,5,3882.9857011675194
+Islamabad,Pir Sohawa,Pir Sohawa | Islamabad,33.806977,73.128156,16,6216.487985117677
+Islamabad,Police Foundation Housing Society,Police Foundation Housing Society | Islamabad,33.474215,73.198686,5,5876.951331496786
+Islamabad,Qutbal Town,Qutbal Town | Islamabad,33.628058,73.127508,6,3415.977961432507
+Islamabad,Rawal Town,Rawal Town | Islamabad,33.686032,73.117268,7,9550.045913682277
+Islamabad,River Garden,River Garden | Islamabad,33.551696,73.166027,64,5802.145624762033
+Islamabad,Royal Avenue,Royal Avenue | Islamabad,33.657541,73.161258,13,8815.426997245178
+Islamabad,Royal City,Royal City | Islamabad,33.646113,73.236695,5,4919.323101141284
+Islamabad,Sarai Kharbuza,Sarai Kharbuza | Islamabad,33.680988,72.905316,7,2081.420263238445
+Islamabad,Shah Allah Ditta,Shah Allah Ditta | Islamabad,33.712988384938,72.921280860901,17,3826.1401897765536
+Islamabad,Shaheen Town,Shaheen Town | Islamabad,33.641747,73.217908,38,4474.762050519626
+Islamabad,Shahpur,Shahpur | Islamabad,33.742738,73.214865,7,4197.822379640562
+Islamabad,Shehzad Town,Shehzad Town | Islamabad,33.671872,73.140278,7,9083.997353792074
+Islamabad,Simly Dam Road,Simly Dam Road | Islamabad,33.714845,73.238712,15,3158.8613406795225
+Islamabad,Soan Garden,Soan Garden | Islamabad,33.564427,73.157101,335,5876.951331496786
+Islamabad,Sohan Valley,Sohan Valley | Islamabad,33.649494,73.104401,8,5264.768901132538
+Islamabad,Spring Valley,Spring Valley | Islamabad,33.73478,73.195541,7,2877.257422711968
+Islamabad,Swan Garden,Swan Garden | Islamabad,33.564785,73.157001,19,6060.606060606061
+Islamabad,Taramrri,Taramrri | Islamabad,33.64192,73.165727,23,4775.022956841139
+Islamabad,Tarlai,Tarlai | Islamabad,33.640276,73.153925,24,4040.40404040404
+Islamabad,Tarnol,Tarnol | Islamabad,33.650065,72.90699,28,3370.064279155188
+Islamabad,Thanda Pani,Thanda Pani | Islamabad,33.648957,73.219124,20,3379.635702868026
+Islamabad,The Springs,The Springs | Islamabad,33.615388,73.119838,12,6772.816388732387
+Islamabad,Top City 1,Top City 1 | Islamabad,33.587954,72.86725,7,5305.58106315682
+Islamabad,Zaraj Housing Scheme,Zaraj Housing Scheme | Islamabad,33.513454,73.151522,46,6183.04254667891
+Karachi,ASF Tower,ASF Tower | Karachi,24.952136,67.158726,13,3673.094582185491
+Karachi,Abdullah Haroon Road,Abdullah Haroon Road | Karachi,24.848067,67.031176,7,5509.641873278237
+Karachi,Abid Town,Abid Town | Karachi,24.924261,67.082495,13,6734.006734006734
+Karachi,Abul Hassan Isphani Road,Abul Hassan Isphani Road | Karachi,24.941817,67.098056,131,4407.713498622589
+Karachi,Airport,Airport | Karachi,24.902397,67.159803,45,5684.551139096593
+Karachi,Aisha Manzil,Aisha Manzil | Karachi,24.927498,67.064165,43,6887.052341597796
+Karachi,Al-Hilal Society,Al-Hilal Society | Karachi,24.894248,67.066502,11,9182.736455463728
+Karachi,Al-Jadeed Residency,Al-Jadeed Residency | Karachi,24.931248,67.25654,6,5576.290766906603
+Karachi,Al-Manzar Society,Al-Manzar Society | Karachi,25.009434,67.128953,5,5509.641873278237
+Karachi,Amil Colony,Amil Colony | Karachi,24.884539,67.026494,9,11244.167088322933
+Karachi,Amir Khusro,Amir Khusro | Karachi,24.880714,67.080477,25,16069.788797061525
+Karachi,Anda Mor Road,Anda Mor Road | Karachi,24.964946,67.056945,19,6121.824303642486
+Karachi,Azam Town,Azam Town | Karachi,24.845027,67.06986,20,10463.02182665819
+Karachi,BMCHS,BMCHS | Karachi,24.883046,67.064663,6,9211.897257164153
+Karachi,Bagh-e-Korangi,Bagh-e-Korangi | Karachi,24.858398,67.151549,13,8034.8943985307615
+Karachi,Bahria Town Karachi,Bahria Town Karachi | Karachi,25.020961,67.313384,2146,5509.641873278237
+Karachi,Baldia Town,Baldia Town | Karachi,24.924738,66.96604,27,4591.368227731864
+Karachi,Baloch Colony,Baloch Colony | Karachi,24.867372,67.082591,22,7964.146900682064
+Karachi,Bath Island,Bath Island | Karachi,24.835661,67.028604,155,17746.41202628945
+Karachi,Bin Qasim Town,Bin Qasim Town | Karachi,24.852173,67.289715,195,5892.255892255893
+Karachi,Britto Road,Britto Road | Karachi,24.878799,67.034094,7,6578.676863615805
+Karachi,Cantt,Cantt | Karachi,24.937425,67.182856,556,11861.661824404
+Karachi,Chapal Courtyard,Chapal Courtyard | Karachi,24.953426,67.144389,6,8765.339343851741
+Karachi,Chapal Uptown,Chapal Uptown | Karachi,25.045518,67.13858,5,6504.438322620141
+Karachi,Civil Lines,Civil Lines | Karachi,24.84567,67.030077,110,15245.69706387888
+Karachi,Clifton,Clifton | Karachi,24.820432,67.029383,853,12603.755919263942
+Karachi,Cosmopolitan Society,Cosmopolitan Society | Karachi,24.878194,67.040152,13,12181.181012349844
+Karachi,Cotton Export Cooperative Housing Society,Cotton Export Cooperative Housing Society | Karachi,24.999456,67.128635,7,5586.164677073768
+Karachi,Cutchi Memon Cooperative Housing Society,Cutchi Memon Cooperative Housing Society | Karachi,24.885829,67.072549,6,12895.97414783704
+Karachi,DHA City Karachi,DHA City Karachi | Karachi,25.017951,67.4296511849365,18,6899.822024921086
+Karachi,DHA Defence,DHA Defence | Karachi,24.805045,67.064323,4097,15151.515151515152
+Karachi,Dalmia Cement Factory Road,Dalmia Cement Factory Road | Karachi,24.903908,67.102623,9,6628.140599432465
+Karachi,Dastgir Colony,Dastgir Colony | Karachi,24.925717,67.077208,37,6536.863239482654
+Karachi,Defence Garden,Defence Garden | Karachi,24.845576,67.054217,5,9947.96449341904
+Karachi,Defence View Society,Defence View Society | Karachi,24.838874,67.080156,99,10550.378055213645
+Karachi,Delhi Colony,Delhi Colony | Karachi,24.831727,67.043931,80,3942.0175783812147
+Karachi,Diamond City,Diamond City | Karachi,24.874796,67.017519,16,7193.14355677992
+Karachi,Etawa Society,Etawa Society | Karachi,25.003901,67.122671,23,8034.894398530762
+Karachi,Falaknaz Presidency,Falaknaz Presidency | Karachi,24.927051,67.173994,21,6642.83062735674
+Karachi,Falcon Complex Faisal,Falcon Complex Faisal | Karachi,24.865828,67.088388,12,22169.749442476714
+Karachi,Fazaia Housing Scheme,Fazaia Housing Scheme | Karachi,25.05711,67.136249542236,99,2967.8604224058768
+Karachi,Federal B Area,Federal B Area | Karachi,24.92863,67.067707,1198,6393.905383804374
+Karachi,Frere Town,Frere Town | Karachi,24.841065,67.037424,89,13774.104683195592
+Karachi,Gadap Town,Gadap Town | Karachi,25.022073,67.07325,1528,5329.502067214116
+Karachi,Garden West,Garden West | Karachi,24.873806,67.016224,159,5356.596265687175
+Karachi,Gizri,Gizri | Karachi,24.820393,67.0468,85,5097.355746706396
+Karachi,Gizri Road,Gizri Road | Karachi,24.822217,67.046129,11,5739.2102846648295
+Karachi,Golimar,Golimar | Karachi,24.891029,67.006901,25,6237.330422579136
+Karachi,Gulberg Town,Gulberg Town | Karachi,24.920135,67.064295,119,6228.290813271051
+Karachi,Gulistan-e-Jauhar,Gulistan-e-Jauhar | Karachi,24.920965,67.130384,3279,6010.518407212621
+Karachi,Gulshan-e-Iqbal Town,Gulshan-e-Iqbal Town | Karachi,24.911726,67.086039,2707,7539.50993185443
+Karachi,Gulshan-e-Millat,Gulshan-e-Millat | Karachi,24.861197,67.154875,8,5595.730027548208
+Karachi,Gulshan-e-Usman Housing Society,Gulshan-e-Usman Housing Society | Karachi,24.979744,67.185033,9,6887.052341597796
+Karachi,Guru Mandir Chorangi,Guru Mandir Chorangi | Karachi,24.880755,67.039694,9,8805.363724417273
+Karachi,Hassan Goth,Hassan Goth | Karachi,25.028795,67.092118,7,2066.115702479339
+Karachi,Hill Park,Hill Park | Karachi,24.868021,67.071147,35,10566.436469300728
+Karachi,Jamshed Road,Jamshed Road | Karachi,24.88084,67.041705,113,6629.487782481131
+Karachi,Jamshed Town,Jamshed Town | Karachi,24.871447,67.058573,903,10789.71533516988
+Karachi,Jinnah Avenue,Jinnah Avenue | Karachi,24.901059,67.180904,111,6541.127338138546
+Karachi,KDA Scheme 1,KDA Scheme 1 | Karachi,24.879857,67.090538,53,17141.10805019896
+Karachi,Kamran Chowrangi,Kamran Chowrangi | Karachi,24.923841,67.137812,19,6695.745332108969
+Karachi,Karachi Motorway,Karachi Motorway | Karachi,24.991279,67.174987,21,4797.511291017784
+Karachi,Kashmir Colony,Kashmir Colony | Karachi,24.837672,67.076549,9,9838.646202282567
+Karachi,Kashmir Road,Kashmir Road | Karachi,24.8801565,67.0439751,12,14723.70536142585
+Karachi,Kemari Town,Kemari Town | Karachi,24.839789,66.983271,14,4270.6314998616
+Karachi,Khalid Bin Walid Road,Khalid Bin Walid Road | Karachi,24.874922,67.057322,100,11571.203320630364
+Karachi,Khaliq-uz-Zaman Road,Khaliq-uz-Zaman Road | Karachi,24.832529516558,67.037662,7,12626.262626262625
+Karachi,Khayaban-e-Ittehad Road,Khayaban-e-Ittehad Road | Karachi,24.813129,67.076319,9,18365.472910927456
+Karachi,Khuda Ki Basti,Khuda Ki Basti | Karachi,25.03256,67.094818,12,2869.6051423324147
+Karachi,Khudadad Colony,Khudadad Colony | Karachi,24.873652,67.044956,7,7805.325987144169
+Karachi,Korangi,Korangi | Karachi,24.829429,67.11942,500,5356.596265687175
+Karachi,Korangi Road,Korangi Road | Karachi,24.844366,67.146878,31,5509.641873278237
+Karachi,Lalukhet,Lalukhet | Karachi,24.900299,67.032157,8,3443.5261707988984
+Karachi,Landhi,Landhi | Karachi,24.83866,67.17456,49,6121.824303642486
+Karachi,Liaquatabad,Liaquatabad | Karachi,24.903253,67.052279,291,4340.929960764671
+Karachi,Lyari Expressway,Lyari Expressway | Karachi,24.894222,67.045655,13,3213.9577594123048
+Karachi,Lyari Town,Lyari Town | Karachi,24.871486,66.987584,19,3673.094582185491
+Karachi,M. A. Jinnah Road,M. A. Jinnah Road | Karachi,24.855992,67.009472,33,5575.232847960121
+Karachi,MT Khan Road,MT Khan Road | Karachi,24.845752,67.022147,5,6427.9155188246095
+Karachi,Malir,Malir | Karachi,24.9052,67.187483,821,7958.371594735231
+Karachi,Malir Link To Super Highway,Malir Link To Super Highway | Karachi,24.949734,67.182861,37,6121.824303642486
+Karachi,Manghopir Road,Manghopir Road | Karachi,24.942065,67.019994,9,4591.368227731864
+Karachi,Manzoor Colony,Manzoor Colony | Karachi,24.850265,67.085216,50,8861.340679522498
+Karachi,Maskan Chowrangi,Maskan Chowrangi | Karachi,24.934847,67.105248,10,6522.525530789993
+Karachi,Mehmoodabad,Mehmoodabad | Karachi,24.853864,67.075562,162,4506.313721969422
+Karachi,Muslimabad Society,Muslimabad Society | Karachi,24.879255,67.049402,19,13774.104683195592
+Karachi,National Highway,National Highway | Karachi,24.862219,67.284222,11,3826.1401897765536
+Karachi,Naval Colony,Naval Colony | Karachi,24.941298,66.93869,17,9182.736455463728
+Karachi,Naval Housing Scheme,Naval Housing Scheme | Karachi,24.838338,67.055746,17,24924.570379115834
+Karachi,Navy Housing Scheme Karsaz,Navy Housing Scheme Karsaz | Karachi,24.893299,67.103462,101,23584.077235344
+Karachi,Naya Nazimabad,Naya Nazimabad | Karachi,24.969255,67.039855,49,7078.359351086624
+Karachi,Nazimabad,Nazimabad | Karachi,24.916331,67.02757,925,5808.614688107289
+Karachi,New Karachi,New Karachi | Karachi,25.001422,67.061148,249,7805.325987144169
+Karachi,Nishtar Road (Lawrence Road),Nishtar Road (Lawrence Road) | Karachi,24.885121,67.030018,9,3837.561503775886
+Karachi,North Karachi,North Karachi | Karachi,24.972286224365,67.066119,1875,8034.894398530762
+Karachi,North Nazimabad,North Nazimabad | Karachi,24.941744,67.05102,1911,7401.011471567781
+Karachi,Northern Bypass,Northern Bypass | Karachi,25.07576,67.105412,45,3073.712329910677
+Karachi,Numaish Chowrangi,Numaish Chowrangi | Karachi,24.873347,67.036376,10,9182.736455463728
+Karachi,Orangi Town,Orangi Town | Karachi,24.950888,66.974201,117,3826.1401897765536
+Karachi,P & T Colony,P & T Colony | Karachi,24.826386,67.045677,64,4321.287743747637
+Karachi,PAF Housing Scheme,PAF Housing Scheme | Karachi,24.953678,67.18116,6,12580.348943985307
+Karachi,PTV Society,PTV Society | Karachi,25.008386,67.118107,11,7346.189164370982
+Karachi,Pakistan Chowk,Pakistan Chowk | Karachi,24.854217,67.012351,10,5502.605293618877
+Karachi,Punjab Chowrangi,Punjab Chowrangi | Karachi,24.834479,67.039121,10,4453.627180899908
+Karachi,Punjab Colony,Punjab Colony | Karachi,24.830948,67.047329,25,3881.0055962714628
+Karachi,Qayyumabad,Qayyumabad | Karachi,24.8243075,67.08204,6,11707.988980716253
+Karachi,Rabia City,Rabia City | Karachi,24.907814,67.132983,12,3043.5915914074117
+Karachi,Rashid Minhas Road,Rashid Minhas Road | Karachi,24.895994,67.119191,58,5935.65327423019
+Karachi,Rufi Lake Drive Apartments,Rufi Lake Drive Apartments | Karachi,24.907374,67.121106,11,5277.434744519384
+Karachi,Saadi Road,Saadi Road | Karachi,24.946106,67.162806,41,6121.824303642486
+Karachi,Saddar Town,Saddar Town | Karachi,24.8605761388815,67.018219,126,5509.641873278237
+Karachi,Saima Luxury Homes,Saima Luxury Homes | Karachi,24.859036,67.144243,18,5739.21028466483
+Karachi,Sakhi Hassan Chowrangi,Sakhi Hassan Chowrangi | Karachi,24.954203,67.057675,9,4591.368227731864
+Karachi,Scheme 33,Scheme 33 | Karachi,24.954818,67.140593,1629,6900.9655786515295
+Karachi,Scheme 45,Scheme 45 | Karachi,25.043148,67.103105,29,3443.526170798898
+Karachi,Sea View Apartments,Sea View Apartments | Karachi,24.791838,67.044668,69,13731.194699758847
+Karachi,Shadman 2,Shadman 2 | Karachi,24.960194,67.061964,16,6577.739113624281
+Karachi,Shah Faisal Town,Shah Faisal Town | Karachi,24.879964,67.169895,180,5509.641873278237
+Karachi,Shaheed Millat Road,Shaheed Millat Road | Karachi,24.876976,67.069237,98,12646.053006554574
+Karachi,Shaheed-e-Millat Expressway,Shaheed-e-Millat Expressway | Karachi,24.864248,67.085495,9,7805.325987144169
+Karachi,Shahra-e-Faisal,Shahra-e-Faisal | Karachi,24.863953,67.075031,153,7675.123007551772
+Karachi,Shahra-e-Qaideen,Shahra-e-Qaideen | Karachi,24.872849,67.038424,8,12312.433150022527
+Karachi,Shahra-e-Usman,Shahra-e-Usman | Karachi,25.014626,67.063959,5,3814.367450731087
+Karachi,Shahrah-e-Pakistan,Shahrah-e-Pakistan | Karachi,24.934436,67.072266,9,5565.2948214931685
+Karachi,Sindh Industrial Trading Estate (SITE),Sindh Industrial Trading Estate (SITE) | Karachi,24.917129394700503,67.013426,18,6965.105601469238
+Karachi,Stadium Road,Stadium Road | Karachi,24.86613,67.336715,10,11783.361065657717
+Karachi,Suparco Road,Suparco Road | Karachi,24.95212,67.127083,18,4813.247744957183
+Karachi,Super Highway,Super Highway | Karachi,24.991426,67.169123,21,4973.98224670952
+Karachi,Tariq Road,Tariq Road | Karachi,24.871155,67.059571,42,8051.857581638145
+Karachi,Teacher Society,Teacher Society | Karachi,24.986019,67.135864,5,11478.42056932966
+Karachi,Tipu Sultan Road,Tipu Sultan Road | Karachi,24.87612,67.08533,16,12830.323436384042
+Karachi,University Road,University Road | Karachi,24.92252,67.103269,152,5524.217645429766
+Karachi,Zamzama,Zamzama | Karachi,24.8142,67.040935,7,13774.104683195592
+Lahore,AWT Army Welfare Trust,AWT Army Welfare Trust | Lahore,31.354743,74.212191,15,4040.40404040404
+Lahore,Aabpara Coop Housing Society,Aabpara Coop Housing Society | Lahore,31.443685,74.205662,6,6657.483930211203
+Lahore,Aashiana Road,Aashiana Road | Lahore,31.428051,74.379676,70,5374.961738598102
+Lahore,Abdali Road,Abdali Road | Lahore,31.568747,74.292991,8,9139.009139009138
+Lahore,Abdalians Cooperative Housing Society,Abdalians Cooperative Housing Society | Lahore,31.456124,74.268823,59,9041.463586918133
+Lahore,Abdul Sattar Edhi Road,Abdul Sattar Edhi Road | Lahore,31.45646,74.236846,5,6016.2756087520975
+Lahore,Acro Green - Bankers Avenue,Acro Green - Bankers Avenue | Lahore,31.437103,74.482945,13,6427.9155188246095
+Lahore,Ahbab Colony,Ahbab Colony | Lahore,31.485479,74.250062,6,7040.097949188858
+Lahore,Ahmad Avenue,Ahmad Avenue | Lahore,31.44525,74.292762,8,6978.879706152434
+Lahore,Ahmad Housing Society,Ahmad Housing Society | Lahore,31.489617,74.247793,8,4811.753902662993
+Lahore,Airline Housing Society,Airline Housing Society | Lahore,31.443218,74.266394,33,7254.361799816345
+Lahore,Airport Road,Airport Road | Lahore,31.491261,74.415629,29,6887.052341597796
+Lahore,Aitchison Society,Aitchison Society | Lahore,31.457807,74.253159,11,5876.951331496786
+Lahore,Al Faisal Town,Al Faisal Town | Lahore,31.550672,74.403963,37,6887.052341597796
+Lahore,Al Hafeez Gardens,Al Hafeez Gardens | Lahore,31.590394,74.467811,39,6427.9155188246095
+Lahore,Al Hamad Colony,Al Hamad Colony | Lahore,31.570214,74.281473,26,7153.351698806244
+Lahore,Al Hamra Town,Al Hamra Town | Lahore,31.448106,74.257057,5,6464.646464646465
+Lahore,Al Jalil Garden,Al Jalil Garden | Lahore,31.592658,74.215065,19,5509.641873278237
+Lahore,Al Kareem Garden,Al Kareem Garden | Lahore,31.589742,74.451851,14,6758.494031221304
+Lahore,Al Noor Town,Al Noor Town | Lahore,31.475231,74.359496,6,7270.241720002486
+Lahore,Al Rehman Garden,Al Rehman Garden | Lahore,31.59802,74.228218,426,6391.184573002754
+Lahore,Al-Amin Housing Society,Al-Amin Housing Society | Lahore,31.480609,74.42101,7,5843.559562567827
+Lahore,Al-Hafiz Town,Al-Hafiz Town | Lahore,31.508595,74.249121,16,6978.879706152433
+Lahore,Al-Hamad Colony (AIT),Al-Hamad Colony (AIT) | Lahore,31.522627,74.30465,27,7346.189164370982
+Lahore,Al-Hamd Garden,Al-Hamd Garden | Lahore,31.613373,74.24849,6,4743.539288993835
+Lahore,Al-Hamd Park,Al-Hamd Park | Lahore,31.501252,74.257575,14,7988.9807162534435
+Lahore,Al-Jannat Housing Society - Kahna,Al-Jannat Housing Society - Kahna | Lahore,31.360227,74.384958,9,4040.40404040404
+Lahore,Al-Kabir Town,Al-Kabir Town | Lahore,31.329958,74.215204,87,7064.585246403428
+Lahore,Al-Raheem Garden,Al-Raheem Garden | Lahore,31.596604,74.473726,8,7346.189164370982
+Lahore,Alfalah Town,Alfalah Town | Lahore,31.482881,74.418933,42,6519.742883379247
+Lahore,Ali Alam Garden,Ali Alam Garden | Lahore,31.586244,74.461219,17,6244.260789715335
+Lahore,Ali Town,Ali Town | Lahore,31.463563,74.245571,13,6938.06754412815
+Lahore,Ali View Garden,Ali View Garden | Lahore,31.489322,74.406844,13,7346.189164370982
+Lahore,Ali View Park,Ali View Park | Lahore,31.494262,74.400187,20,8264.462809917355
+Lahore,Allama Iqbal Road,Allama Iqbal Road | Lahore,31.559198,74.351165,14,7429.66858669338
+Lahore,Allama Iqbal Town,Allama Iqbal Town | Lahore,31.517283,74.283185,809,8264.462809917355
+Lahore,Altaf Colony,Altaf Colony | Lahore,31.55346,74.42452,7,4591.368227731864
+Lahore,Ameen Park,Ameen Park | Lahore,31.586834,74.294829,5,8723.599632690542
+Lahore,Ameer-ud-Din Park,Ameer-ud-Din Park | Lahore,31.553707,74.40623,6,8034.894398530762
+Lahore,Angoori Bagh,Angoori Bagh | Lahore,31.58263,74.384136,8,4912.7640036730945
+Lahore,Architects Engineers Housing Society,Architects Engineers Housing Society | Lahore,31.443749,74.259152,106,6960.514233241506
+Lahore,Ashiana-e-Quaid Housing Scheme,Ashiana-e-Quaid Housing Scheme | Lahore,31.425257,74.383922,18,4591.368227731864
+Lahore,Asim Town,Asim Town | Lahore,31.572519,74.442119,5,4407.713498622589
+Lahore,Askari,Askari | Lahore,31.533161,74.416037,565,7346.189164370982
+Lahore,Audit & Accounts Housing Society,Audit & Accounts Housing Society | Lahore,31.398374,74.270325,46,5280.073461891644
+Lahore,Awan Town,Awan Town | Lahore,31.503922,74.260068,40,6734.006734006734
+Lahore,Azam Gardens,Azam Gardens | Lahore,31.487419,74.265132,24,6887.052341597796
+Lahore,Azeem Garden Shahdara,Azeem Garden Shahdara | Lahore,31.668906,74.255742,5,5142.332415059688
+Lahore,BOR - Board of Revenue Housing Society,BOR - Board of Revenue Housing Society | Lahore,31.478452,74.296846,79,9182.736455463728
+Lahore,Badami Bagh,Badami Bagh | Lahore,31.603832,74.322481,17,6559.097468188377
+Lahore,Bagarian,Bagarian | Lahore,31.425944,74.295998,19,4701.561065197428
+Lahore,Baghbanpura,Baghbanpura | Lahore,31.584531,74.372978,79,6611.570247933884
+Lahore,Bahadurabad,Bahadurabad | Lahore,31.45156,74.377321,8,4928.0685644322
+Lahore,Bahar Colony,Bahar Colony | Lahore,31.47074,74.340206,6,7616.26964835521
+Lahore,Bahria Nasheman,Bahria Nasheman | Lahore,31.320354,74.403441,57,6244.260789715335
+Lahore,Bahria Orchard,Bahria Orchard | Lahore,31.317861,74.21814,167,4077.1349862258953
+Lahore,Bahria Town,Bahria Town | Lahore,31.375843,74.188514,2251,7529.843893480257
+Lahore,Band Road,Band Road | Lahore,31.537286,74.273314,35,6821.461366915913
+Lahore,Bankers Co-operative Housing Society,Bankers Co-operative Housing Society | Lahore,31.450522,74.394553,56,8080.80808080808
+Lahore,Bankers Town,Bankers Town | Lahore,31.448371,74.391315,11,8264.462809917355
+Lahore,Batapur,Batapur | Lahore,31.593122,74.493005,8,4184.704184704185
+Lahore,Beacon House Society,Beacon House Society | Lahore,31.361846,74.22123,12,4560.759106213652
+Lahore,Bedian Road,Bedian Road | Lahore,31.473474,74.429569,130,4524.028160391797
+Lahore,Begampura,Begampura | Lahore,31.580729,74.36182,7,8681.859921529342
+Lahore,Bhagatpura,Bhagatpura | Lahore,31.604855,74.351177,7,7346.189164370982
+Lahore,Bhatta Chowk,Bhatta Chowk | Lahore,31.487441,74.41206,14,6023.875114784206
+Lahore,Bhatti Colony,Bhatti Colony | Lahore,31.468716,74.319849,9,7052.341597796143
+Lahore,Bhogiwal Road,Bhogiwal Road | Lahore,31.58606,74.368887,9,5876.951331496786
+Lahore,Bilal Gunj,Bilal Gunj | Lahore,31.580583,74.301438,11,9445.100354191263
+Lahore,Bismillah Housing Scheme,Bismillah Housing Scheme | Lahore,31.598386,74.480821,91,6795.224977043159
+Lahore,Canal Bank Housing Scheme,Canal Bank Housing Scheme | Lahore,31.572434,74.413002,132,7958.371594735231
+Lahore,Canal Burg,Canal Burg | Lahore,31.475302,74.244671,16,7652.280379553107
+Lahore,Canal Fort II,Canal Fort II | Lahore,31.585176,74.499197,33,5509.641873278237
+Lahore,Canal Garden,Canal Garden | Lahore,31.393171,74.175897,164,7125.803489439853
+Lahore,Canal View,Canal View | Lahore,31.478159,74.254017,74,6354.4536271809
+Lahore,Cantt,Cantt | Lahore,31.50341,74.393917,438,8080.80808080808
+Lahore,Cavalry Ground,Cavalry Ground | Lahore,31.500556,74.367728,127,9025.318116227207
+Lahore,Central Park Housing Scheme,Central Park Housing Scheme | Lahore,31.321674,74.38086,118,5142.332415059688
+Lahore,Chah Miran,Chah Miran | Lahore,31.590088,74.345241,15,8815.426997245178
+Lahore,Chaman Park,Chaman Park | Lahore,31.567912,74.399192,10,7897.153351698806
+Lahore,Chauburji Chowk,Chauburji Chowk | Lahore,31.554108,74.30512,8,8723.59963269054
+Lahore,Chauburji Park Road,Chauburji Park Road | Lahore,31.552428,74.299507,8,8098.663401693704
+Lahore,China Scheme,China Scheme | Lahore,31.598642,74.363666,21,5247.277974550701
+Lahore,Chinar Bagh,Chinar Bagh | Lahore,31.324753,74.24386,23,2479.3388429752067
+Lahore,Chohan Road,Chohan Road | Lahore,31.565908,74.288958,9,7958.371594735231
+Lahore,Chungi Amar Sadhu,Chungi Amar Sadhu | Lahore,31.450925,74.354287,61,4722.550177095632
+Lahore,Clifton Colony,Clifton Colony | Lahore,31.520825,74.302425,34,8111.417202326293
+Lahore,College Road,College Road | Lahore,31.422982,74.281932,77,7142.128354249567
+Lahore,Cricketer Villas,Cricketer Villas | Lahore,31.495427,74.423858,7,6611.570247933884
+Lahore,DHA 11 Rahbar,DHA 11 Rahbar | Lahore,31.389326,74.256456,193,8448.11753902663
+Lahore,DHA Defence,DHA Defence | Lahore,31.469155,74.409342,3979,9550.045913682277
+Lahore,Daroghewala,Daroghewala | Lahore,31.588479,74.400444,68,5179.063360881542
+Lahore,Davis Road,Davis Road | Lahore,31.55667,74.339926,7,6978.879706152434
+Lahore,Defence Road,Defence Road | Lahore,31.395187,74.210501,107,8080.80808080808
+Lahore,Dharampura,Dharampura | Lahore,31.554037,74.366612,20,8999.081726354452
+Lahore,Dholanwal,Dholanwal | Lahore,31.530463,74.282451,8,5968.778696051423
+Lahore,Divine Gardens,Divine Gardens | Lahore,31.502385,74.414506,132,7139.577594123049
+Lahore,Doctors Housing Society,Doctors Housing Society | Lahore,31.461139,74.233675,8,5981.8968909878
+Lahore,Dogech,Dogech | Lahore,31.548478,74.422059,8,5730.027548209367
+Lahore,Dream Avenue Lahore,Dream Avenue Lahore | Lahore,31.402868,74.236129,35,7346.189164370982
+Lahore,Dubai Town,Dubai Town | Lahore,31.414161,74.231944,8,4040.40404040404
+Lahore,Dubban Pura,Dubban Pura | Lahore,31.518538,74.274252,9,7835.935108662381
+Lahore,EME Society,EME Society | Lahore,31.438916,74.211559,150,9366.391184573004
+Lahore,Eden,Eden | Lahore,31.458942,74.253992,327,6121.824303642486
+Lahore,Eden Avenue Extension,Eden Avenue Extension | Lahore,31.499481,74.418277,15,7346.189164370982
+Lahore,Eden Park,Eden Park | Lahore,31.374046,74.2138,6,3581.267217630854
+Lahore,Eden Place Housing Scheme,Eden Place Housing Scheme | Lahore,31.394949,74.31861,7,5739.21028466483
+Lahore,Eden Villas,Eden Villas | Lahore,31.470028,74.321749,16,3917.9675543311905
+Lahore,Education Town,Education Town | Lahore,31.494335,74.26878,5,5876.951331496786
+Lahore,Elite Town,Elite Town | Lahore,31.342495,74.372878,25,3085.3994490358127
+Lahore,Faisal Town,Faisal Town | Lahore,31.478013,74.304285,161,8264.462809917355
+Lahore,Farooq Colony,Farooq Colony | Lahore,31.478049,74.361212,6,6382.0018365472915
+Lahore,Fateh Garh,Fateh Garh | Lahore,31.572905,74.404206,60,7346.189164370982
+Lahore,Fazaia Housing Scheme,Fazaia Housing Scheme | Lahore,31.369661,74.242845,17,5509.641873278237
+Lahore,Ferozepur Road,Ferozepur Road | Lahore,31.502166,74.333439,161,5203.550658096113
+Lahore,Formanites Housing Scheme,Formanites Housing Scheme | Lahore,31.447703,74.409313,38,6978.879706152434
+Lahore,Fort Villas,Fort Villas | Lahore,31.486064,74.378071,10,8310.376492194675
+Lahore,GT Road,GT Road | Lahore,31.597241138821,74.41412,137,5509.641873278237
+Lahore,Gajju Matah,Gajju Matah | Lahore,31.386326,74.365672,28,5509.641873278237
+Lahore,Garden Town,Garden Town | Lahore,31.503922,74.323139,187,8448.11753902663
+Lahore,Garhi Shahu,Garhi Shahu | Lahore,31.56625,74.344125,35,7460.973370064279
+Lahore,Garrison Homes,Garrison Homes | Lahore,31.5562605,74.41925,22,5824.478551751279
+Lahore,Ghausia Colony,Ghausia Colony | Lahore,31.477812,74.357766,9,9550.045913682277
+Lahore,Ghaziabad,Ghaziabad | Lahore,31.557474,74.395108,16,4584.419129873675
+Lahore,Ghous Garden,Ghous Garden | Lahore,31.586813,74.481766,64,5272.421181512091
+Lahore,Gosha-e-Ahbab,Gosha-e-Ahbab | Lahore,31.484161,74.277577,29,6978.879706152434
+Lahore,Government Employees Cooperative Housing Society (GECHS),Government Employees Cooperative Housing Society (GECHS) | Lahore,31.465897482573,74.319205284119,19,6887.052341597796
+Lahore,Grand Avenues Housing Scheme,Grand Avenues Housing Scheme | Lahore,31.33795,74.381324,13,4040.40404040404
+Lahore,Green Acres Housing Society,Green Acres Housing Society | Lahore,31.410498,74.237695,14,2372.206917661463
+Lahore,Green Cap Housing Society,Green Cap Housing Society | Lahore,31.398679377595,74.354968070766,57,5509.641873278237
+Lahore,Green City,Green City | Lahore,31.519727,74.45996,35,8631.772268135905
+Lahore,Green Fort,Green Fort | Lahore,31.435401,74.195094,5,9182.736455463728
+Lahore,Green Park,Green Park | Lahore,31.503763,74.243489,8,6680.188498370317
+Lahore,Green Park Society,Green Park Society | Lahore,31.488165,74.419307,5,7346.189164370982
+Lahore,Green Town,Green Town | Lahore,31.434742,74.304729,69,5876.951331496786
+Lahore,Gujjarpura,Gujjarpura | Lahore,31.546064,74.425321,5,8723.599632690542
+Lahore,Gul-e-Damin,Gul-e-Damin | Lahore,31.426686,74.284644,10,6356.937845738899
+Lahore,Gulberg,Gulberg | Lahore,31.50567808844,74.348202,448,10376.492194674012
+Lahore,Guldasht Town,Guldasht Town | Lahore,31.543284,74.419842,10,6570.7580859096015
+Lahore,Gulshan Colony,Gulshan Colony | Lahore,31.471644,74.351084,8,7346.189164370982
+Lahore,Gulshan Park,Gulshan Park | Lahore,31.57134,74.394071,8,5999.387817569635
+Lahore,Gulshan-e-Ahbab,Gulshan-e-Ahbab | Lahore,31.492908,74.259142,5,6511.394941147007
+Lahore,Gulshan-e-Lahore,Gulshan-e-Lahore | Lahore,31.424488,74.252458,50,8448.11753902663
+Lahore,Gulshan-e-Ravi,Gulshan-e-Ravi | Lahore,31.551184,74.284058,253,9917.355371900827
+Lahore,HBFC Housing Society,HBFC Housing Society | Lahore,31.455684,74.406953,18,6285.583103764922
+Lahore,Habib Homes,Habib Homes | Lahore,31.463074,74.321506,13,6427.9155188246095
+Lahore,Habibullah Road,Habibullah Road | Lahore,31.558617,74.343785,26,11141.720232629323
+Lahore,Hajvery Housing Scheme,Hajvery Housing Scheme | Lahore,31.573161,74.448981,22,5426.162450955839
+Lahore,Hakim Town,Hakim Town | Lahore,31.418273,74.293919,5,3673.094582185491
+Lahore,Hameedpura,Hameedpura | Lahore,31.575501,74.401381,8,5107.350561896017
+Lahore,Hamza Town,Hamza Town | Lahore,31.412439,74.355361,35,3966.9421487603304
+Lahore,Hanif Park Harbanspura,Hanif Park Harbanspura | Lahore,31.571397,74.430341,8,6762.429489702217
+Lahore,Harbanspura,Harbanspura | Lahore,31.575684,74.422631,207,6678.353785791803
+Lahore,Harbanspura Road,Harbanspura Road | Lahore,31.560697,74.421326,74,5876.951331496786
+Lahore,Hassan Town,Hassan Town | Lahore,31.505514,74.265089,40,7179.230319726187
+Lahore,Highcourt Society,Highcourt Society | Lahore,31.4142385,74.2910385,20,6427.9155188246095
+Lahore,IEP Engineers Town,IEP Engineers Town | Lahore,31.402513,74.292798,27,5399.449035812672
+Lahore,Ichhra,Ichhra | Lahore,31.533262,74.316587,87,8080.80808080808
+Lahore,Immad Garden Housing Scheme,Immad Garden Housing Scheme | Lahore,31.358657,74.3778,9,4040.40404040404
+Lahore,Infantry Road,Infantry Road | Lahore,31.530253,74.368722,11,10101.0101010101
+Lahore,Iqbal Avenue,Iqbal Avenue | Lahore,31.445067,74.270668,47,7621.671258034894
+Lahore,Iqbal Park,Iqbal Park | Lahore,31.593305,74.309363,39,7958.371594735231
+Lahore,Islam Nagar,Islam Nagar | Lahore,31.493155,74.370301,21,8723.599632690542
+Lahore,Islamia Park,Islamia Park | Lahore,31.548701,74.303386,22,8319.402258796199
+Lahore,Islampura,Islampura | Lahore,31.566287,74.298735,85,10595.465140919687
+Lahore,Ittehad Colony,Ittehad Colony | Lahore,31.527593,74.287705,15,8264.462809917355
+Lahore,Ittifaq Town,Ittifaq Town | Lahore,31.492213,74.251013,20,6446.280991735537
+Lahore,Izmir Town,Izmir Town | Lahore,31.422822500000002,74.1904585,88,7346.189164370982
+Lahore,Jaffaria Colony,Jaffaria Colony | Lahore,31.538164,74.280539,7,7346.189164370982
+Lahore,Jail Road,Jail Road | Lahore,31.539334,74.335799,17,10713.19253137435
+Lahore,Jallo,Jallo | Lahore,31.576854,74.494257,7,2448.729721456994
+Lahore,Jallo Park Road,Jallo Park Road | Lahore,31.579015,74.48308,9,3673.094582185491
+Lahore,Jamil Town,Jamil Town | Lahore,31.519398,74.270024,6,7346.189164370982
+Lahore,Jinnah Colony,Jinnah Colony | Lahore,31.42489,74.363461,11,6611.570247933884
+Lahore,Johar Town,Johar Town | Lahore,31.466154,74.283028,1453,8668.50321395776
+Lahore,Jora Pull,Jora Pull | Lahore,31.548287,74.407187,9,5815.733088460362
+Lahore,Jubilee Town,Jubilee Town | Lahore,31.409436,74.187155,161,7933.884297520661
+Lahore,Judicial Colony,Judicial Colony | Lahore,31.463042,74.247236,33,7346.189164370982
+Lahore,Kacha Ferozepur Road,Kacha Ferozepur Road | Lahore,31.542643,74.309937,7,9794.918885827976
+Lahore,Kacha Jail Road,Kacha Jail Road | Lahore,31.451424,74.34446,13,6611.570247933884
+Lahore,Kahna,Kahna | Lahore,31.373864,74.362316,50,4123.048668503214
+Lahore,Kahna Kacha,Kahna Kacha | Lahore,31.400894,74.303922,8,4285.27701254974
+Lahore,Kamahan Road,Kamahan Road | Lahore,31.454618,74.368249,28,4499.540863177226
+Lahore,Karim Park,Karim Park | Lahore,31.590234,74.300365,6,11394.941147007263
+Lahore,Katar Bund Road,Katar Bund Road | Lahore,31.474503,74.231476,8,7346.189164370982
+Lahore,Kharak,Kharak | Lahore,31.507215,74.264848,5,8142.026323844506
+Lahore,Khayaban-e-Amin,Khayaban-e-Amin | Lahore,31.376356,74.264481,131,3379.247015610652
+Lahore,Khayaban-e-Jinnah Road,Khayaban-e-Jinnah Road | Lahore,31.436474895687,74.26094055154,5,6459.136822773186
+Lahore,Khayaban-e-Quaid,Khayaban-e-Quaid | Lahore,31.493297,74.247151,13,5387.2053872053875
+Lahore,Kot Lakhpat,Kot Lakhpat | Lahore,31.448875,74.332094,24,6037.649219467401
+Lahore,Krishan Nagar,Krishan Nagar | Lahore,31.56742,74.291897,9,10330.578512396694
+Lahore,LDA Avenue,LDA Avenue | Lahore,31.416285,74.211788,18,6060.606060606061
+Lahore,Labor Colony,Labor Colony | Lahore,31.40396,74.214497,57,1989.5928986838078
+Lahore,Lahore - Islamabad Motorway,Lahore - Islamabad Motorway | Lahore,31.6135443,74.2114715,15,3048.6685032139576
+Lahore,Lahore Canal Bank Cooperative Housing Society,Lahore Canal Bank Cooperative Housing Society | Lahore,31.455431,74.227133,7,7012.271475081392
+Lahore,Lahore Garden Housing Scheme,Lahore Garden Housing Scheme | Lahore,31.590554,74.208219,39,5142.332415059688
+Lahore,Lahore Medical Housing Society,Lahore Medical Housing Society | Lahore,31.581899,74.463515,129,7346.189164370982
+Lahore,Lahore Motorway City,Lahore Motorway City | Lahore,31.643481,74.209875,29,3550.6580961126415
+Lahore,Lahore Press Club Housing Scheme,Lahore Press Club Housing Scheme | Lahore,31.580144,74.450476,9,6887.052341597796
+Lahore,Lake City,Lake City | Lahore,31.356129,74.253073,193,6978.879706152434
+Lahore,Lalazaar Garden,Lalazaar Garden | Lahore,31.509067,74.246771,82,8448.11753902663
+Lahore,Lalazar,Lalazar | Lahore,31.466167,74.244961,74,8246.097337006428
+Lahore,Land Breeze Housing Society,Land Breeze Housing Society | Lahore,31.418695,74.22756,6,10447.354665536484
+Lahore,Lawrence Road,Lawrence Road | Lahore,31.554713,74.325394,21,11019.283746556473
+Lahore,Madina Colony,Madina Colony | Lahore,31.491334,74.361305,20,6716.515807424898
+Lahore,Madina Town,Madina Town | Lahore,31.56982,74.425133,9,5509.641873278237
+Lahore,Main Canal Bank Road,Main Canal Bank Road | Lahore,31.43429,74.286245,96,6121.824303642486
+Lahore,Makkah Colony,Makkah Colony | Lahore,31.499751,74.355125,11,8815.426997245178
+Lahore,Malik Park,Malik Park | Lahore,31.577512,74.292684,5,6887.052341597796
+Lahore,Mall Road,Mall Road | Lahore,31.556596,74.333982,5,10101.0101010101
+Lahore,Manawan,Manawan | Lahore,31.590709,74.47855,57,4932.44129607766
+Lahore,Mansoorah,Mansoorah | Lahore,31.492615,74.265647,33,6887.052341597796
+Lahore,Marghzar Officers Colony,Marghzar Officers Colony | Lahore,31.503776,74.247222,149,6023.875114784206
+Lahore,Mateen Avenue,Mateen Avenue | Lahore,31.441992,74.291389,22,6978.879706152434
+Lahore,Mehar Fayaz Colony,Mehar Fayaz Colony | Lahore,31.576632,74.405162,19,6734.006734006734
+Lahore,Mehmood Booti,Mehmood Booti | Lahore,31.604417,74.395037,5,4591.368227731864
+Lahore,Mian Amiruddin Park,Mian Amiruddin Park | Lahore,31.553758,74.405465,9,7101.316192225283
+Lahore,Mian Mir Colony,Mian Mir Colony | Lahore,31.543577,74.361005,10,7975.862521317067
+Lahore,Military Accounts Housing Society,Military Accounts Housing Society | Lahore,31.421266,74.283972,200,7208.4481175390265
+Lahore,Misri Shah,Misri Shah | Lahore,31.5838,74.339662,10,7832.334035542592
+Lahore,Model Colony,Model Colony | Lahore,31.499216,74.349013,6,7881.848790939699
+Lahore,Model Town,Model Town | Lahore,31.478891,74.324641,475,9550.045913682277
+Lahore,Mohafiz Town,Mohafiz Town | Lahore,31.452023,74.2189765,14,6905.869424498336
+Lahore,Mohlanwal Road,Mohlanwal Road | Lahore,31.422634,74.172873,10,4269.972451790633
+Lahore,Mohni Road,Mohni Road | Lahore,31.582782,74.302586,5,10284.664830119376
+Lahore,Mominpura Road,Mominpura Road | Lahore,31.598287,74.413291,5,4591.368227731864
+Lahore,Mozang,Mozang | Lahore,31.555298284912,74.315557479858,25,8920.372556736193
+Lahore,Mughalpura,Mughalpura | Lahore,31.571516,74.38429,91,6887.052341597796
+Lahore,Multan Road,Multan Road | Lahore,31.431593,74.179974,150,6734.006734006734
+Lahore,Muslim Nagar Housing Scheme,Muslim Nagar Housing Scheme | Lahore,31.351625,74.229898,7,5142.332415059688
+Lahore,Muslim Town,Muslim Town | Lahore,31.519709,74.32281,31,8658.008658008657
+Lahore,Mustafa Town,Mustafa Town | Lahore,31.495579,74.273386,39,8815.426997245178
+Lahore,NFC 1,NFC 1 | Lahore,31.418263,74.268087,67,7162.534435261708
+Lahore,Nadeem Shaheed Road,Nadeem Shaheed Road | Lahore,31.52299,74.298093,7,8570.55402509948
+Lahore,Nadeem Town,Nadeem Town | Lahore,31.499874,74.26253,8,7860.4224058769505
+Lahore,Nasheman-e-Iqbal,Nasheman-e-Iqbal | Lahore,31.432398,74.24928,101,6008.133280860554
+Lahore,National Town,National Town | Lahore,31.561497,74.291997,12,8185.753640299095
+Lahore,Nawab Town,Nawab Town | Lahore,31.452609,74.249039,44,6060.606060606061
+Lahore,Naz Town,Naz Town | Lahore,31.401387,74.265676,15,4197.822379640562
+Lahore,New Canal Park,New Canal Park | Lahore,31.567377,74.415584,9,8448.11753902663
+Lahore,New Chauburji Park,New Chauburji Park | Lahore,31.549794,74.295545,25,9947.964493419038
+Lahore,New Muslim Town,New Muslim Town | Lahore,31.511679,74.312525,44,7752.455686339984
+Lahore,New Shah Kamal Colony,New Shah Kamal Colony | Lahore,31.525649,74.311983,9,6060.606060606061
+Lahore,New Super Town,New Super Town | Lahore,31.495945,74.377184,25,9182.736455463728
+Lahore,Nishat Colony,Nishat Colony | Lahore,31.496091,74.393234,53,4897.459442913988
+Lahore,Nishtar Colony,Nishtar Colony | Lahore,31.422218,74.364395,112,6391.184573002754
+Lahore,Nizamabad,Nizamabad | Lahore,31.554802,74.400445,5,5583.103764921947
+Lahore,OPF Housing Scheme,OPF Housing Scheme | Lahore,31.422877,74.237022,47,7162.534435261708
+Lahore,Omega Homes,Omega Homes | Lahore,31.617847,74.217387,22,3048.6685032139576
+Lahore,Outfall Road,Outfall Road | Lahore,31.5742,74.294958,9,8815.426997245178
+Lahore,P & D Housing Society,P & D Housing Society | Lahore,31.423683,74.190931,12,5570.860116314661
+Lahore,PASSCO Housing Society,PASSCO Housing Society | Lahore,31.453817,74.22153,7,7346.189164370982
+Lahore,PCSIR Housing Scheme,PCSIR Housing Scheme | Lahore,31.452023,74.26255,99,9182.736455463728
+Lahore,PCSIR Staff Colony,PCSIR Staff Colony | Lahore,31.431007,74.285574,22,5890.318606083853
+Lahore,PIA Housing Scheme,PIA Housing Scheme | Lahore,31.44785,74.278985,158,7346.189164370982
+Lahore,Pak Arab Housing Society,Pak Arab Housing Society | Lahore,31.432105,74.349117,231,9109.274563820018
+Lahore,Pak Park,Pak Park | Lahore,31.498883,74.24263,8,5632.078359351087
+Lahore,Pakki Thatti,Pakki Thatti | Lahore,31.531721,74.294677,8,8080.808080808081
+Lahore,Palm Villas,Palm Villas | Lahore,31.587028,74.495264,20,6244.260789715335
+Lahore,Paragon City,Paragon City | Lahore,31.531355,74.453995,374,7678.437265214125
+Lahore,Park View Villas,Park View Villas | Lahore,31.453414,74.202003,69,7346.189164370982
+Lahore,Peco Road,Peco Road | Lahore,31.465641,74.341121,22,6305.47903275176
+Lahore,Poonch Road,Poonch Road | Lahore,31.536209,74.299921,6,10803.219359369092
+Lahore,Prime Homes 1,Prime Homes 1 | Lahore,31.427708,74.246722,17,5876.951331496786
+Lahore,Punjab Coop Housing Society,Punjab Coop Housing Society | Lahore,31.458979,74.373565,156,6978.879706152434
+Lahore,Punjab Govt Employees Society,Punjab Govt Employees Society | Lahore,31.443383,74.286324,150,7346.189164370982
+Lahore,Punjab Govt Servant Society,Punjab Govt Servant Society | Lahore,31.405462,74.162757,33,4958.677685950413
+Lahore,Punjab Small Industries Colony,Punjab Small Industries Colony | Lahore,31.476512,74.418805,47,6559.097468188377
+Lahore,Punjab University Employees Society,Punjab University Employees Society | Lahore,31.429599,74.239902,47,8080.80808080808
+Lahore,Qadri Colony,Qadri Colony | Lahore,31.48482,74.367471,6,5876.951331496786
+Lahore,Qazi Town,Qazi Town | Lahore,31.59495,74.470518,5,7958.371594735231
+Lahore,Qilla Gujjar Singh,Qilla Gujjar Singh | Lahore,31.56859,74.330921,5,10101.0101010101
+Lahore,Race Course Road,Race Course Road | Lahore,31.549223,74.33247,5,11019.283746556473
+Lahore,Rail Town (Canal City),Rail Town (Canal City) | Lahore,31.442431,74.205608,13,7346.189164370982
+Lahore,Raiwind Road,Raiwind Road | Lahore,31.429249,74.230785,110,4527.089072543618
+Lahore,Raj Garh,Raj Garh | Lahore,31.55901,74.298306,13,6978.879706152434
+Lahore,Rajgarh Road,Rajgarh Road | Lahore,31.559832,74.301233,5,9182.736455463728
+Lahore,Rajpoot Town,Rajpoot Town | Lahore,31.451364,74.21512,5,6010.518407212622
+Lahore,Rana Town,Rana Town | Lahore,31.685596,74.271698,21,3305.785123966942
+Lahore,Rasool Park,Rasool Park | Lahore,31.540874,74.310588,30,9458.21854912764
+Lahore,Ravi Park,Ravi Park | Lahore,31.595315,74.306502,5,10074.773711137348
+Lahore,Ravi Road,Ravi Road | Lahore,31.594077,74.302698,14,10651.974288337926
+Lahore,Rehan Garden,Rehan Garden | Lahore,31.346272,74.3782,17,5325.987144168962
+Lahore,Rehman City - Phase 4,Rehman City - Phase 4 | Lahore,31.579365,74.25831,8,4315.886134067952
+Lahore,Rehman Gardens,Rehman Gardens | Lahore,31.486851,74.408146,13,4224.058769513315
+Lahore,Rehman Park,Rehman Park | Lahore,31.547266,74.282459,7,7556.080283353011
+Lahore,Rehman Villas,Rehman Villas | Lahore,31.484967,74.4104,6,7360.102401424716
+Lahore,Rehmanpura (Ferozpur Road),Rehmanpura (Ferozpur Road) | Lahore,31.521776,74.319835,28,10061.655516200972
+Lahore,Revenue Society,Revenue Society | Lahore,31.448966,74.291825,84,7713.498622589532
+Lahore,Rifle Range Road,Rifle Range Road | Lahore,31.489277,74.376471,5,9182.736455463728
+Lahore,Ring Road,Ring Road | Lahore,31.520898,74.42379,14,4820.936639118458
+Lahore,Riwaz Garden,Riwaz Garden | Lahore,31.559961,74.303176,15,9550.045913682277
+Lahore,Rizwan Garden Scheme,Rizwan Garden Scheme | Lahore,31.584568,74.473779,24,6821.461366915913
+Lahore,Rustam Park,Rustam Park | Lahore,31.544218,74.292494,15,8815.426997245178
+Lahore,Sabzazar Scheme,Sabzazar Scheme | Lahore,31.523532,74.263744,349,8301.19375573921
+Lahore,Saggian,Saggian | Lahore,31.596965,74.238197,6,4928.0685644322
+Lahore,Saggian Wala Bypass Road,Saggian Wala Bypass Road | Lahore,31.598821,74.253584,6,3183.3486378940925
+Lahore,Sahafi Colony,Sahafi Colony | Lahore,31.577371,74.446327,11,7346.189164370982
+Lahore,Saiden Shah Colony,Saiden Shah Colony | Lahore,31.541227,74.359417,16,9550.045913682277
+Lahore,Saidpur,Saidpur | Lahore,31.518877,74.275795,7,5583.103764921947
+Lahore,Sajid Garden,Sajid Garden | Lahore,31.58398,74.461377,22,7713.498622589532
+Lahore,Salamatpura,Salamatpura | Lahore,31.582849,74.417009,30,5240.718877082513
+Lahore,Salli Town,Salli Town | Lahore,31.555499,74.41246,12,8162.432404856647
+Lahore,Samanabad,Samanabad | Lahore,31.539206,74.305515,389,8623.787279913762
+Lahore,Sami Town,Sami Town | Lahore,31.56712,74.413107,24,7309.458218549127
+Lahore,Sanda,Sanda | Lahore,31.562624999999997,74.28520126447751,38,7414.209434411454
+Lahore,Sanda Road,Sanda Road | Lahore,31.56211,74.303699,10,8242.599151690061
+Lahore,Sant Nagar,Sant Nagar | Lahore,31.569505,74.295473,21,10284.664830119376
+Lahore,Sarwar Town,Sarwar Town | Lahore,31.506764,74.246554,6,4197.822379640562
+Lahore,Shadab Garden,Shadab Garden | Lahore,31.422804,74.355125,62,6526.301980847436
+Lahore,Shadbagh,Shadbagh | Lahore,31.602644,74.340019,74,8626.206973314413
+Lahore,Shadipura,Shadipura | Lahore,31.599153,74.403949,8,3856.749311294766
+Lahore,Shadman 1,Shadman 1 | Lahore,31.537359,74.330707,24,11937.557392102846
+Lahore,Shadman 2,Shadman 2 | Lahore,31.535451,74.337407,14,11019.283746556473
+Lahore,Shah Faisal Road,Shah Faisal Road | Lahore,31.530829,74.294312,10,6574.83930211203
+Lahore,Shah Jamal,Shah Jamal | Lahore,31.528032,74.330063,71,9917.355371900827
+Lahore,Shah Kamal Road,Shah Kamal Road | Lahore,31.52607,74.307452,17,8264.462809917355
+Lahore,Shahdara,Shahdara | Lahore,31.626564,74.281826,123,4370.982552800735
+Lahore,Shalimar Housing Scheme,Shalimar Housing Scheme | Lahore,31.582612,74.416838,18,7346.189164370982
+Lahore,Shalimar Link Road,Shalimar Link Road | Lahore,31.572526,74.381002,32,7454.221357964673
+Lahore,Shalimar Town,Shalimar Town | Lahore,31.594824,74.386277,30,5417.814508723599
+Lahore,Sham Nagar,Sham Nagar | Lahore,31.556625,74.294381,27,9182.736455463728
+Lahore,Shama Road,Shama Road | Lahore,31.540855,74.314871,18,8876.645240281603
+Lahore,Shanghai Road,Shanghai Road | Lahore,31.454285,74.378877,7,5289.256198347108
+Lahore,Sharaqpur Road,Sharaqpur Road | Lahore,31.485627,74.121572,18,3238.4450566268747
+Lahore,Sheikhupura Road,Sheikhupura Road | Lahore,31.471826,74.102574,6,4285.27701254974
+Lahore,Shera Kot,Shera Kot | Lahore,31.540747,74.277511,7,4224.058769513315
+Lahore,Sheraz Town,Sheraz Town | Lahore,31.426301,74.28958,26,6734.006734006734
+Lahore,Shershah Colony - Raiwind Road,Shershah Colony - Raiwind Road | Lahore,31.410095,74.222553,82,7284.970921334558
+Lahore,Shiraz Villas,Shiraz Villas | Lahore,31.493941,74.363204,5,8264.462809917355
+Lahore,Shoukat Town,Shoukat Town | Lahore,31.458686,74.359331,20,7575.757575757576
+Lahore,Singhpura,Singhpura | Lahore,31.582118,74.36491,7,6611.570247933884
+Lahore,Sodiwal,Sodiwal | Lahore,31.534753,74.285189,12,8487.957982907477
+Lahore,State Life Housing Society,State Life Housing Society | Lahore,31.446824,74.402375,555,7346.189164370982
+Lahore,Sue-e-Asal,Sue-e-Asal | Lahore,31.308768,74.395373,7,3305.785123966942
+Lahore,Sufiabad,Sufiabad | Lahore,31.424855,74.36697,5,4040.40404040404
+Lahore,Sui Gas Employees Cooperative Housing Society,Sui Gas Employees Cooperative Housing Society | Lahore,31.421172,74.176819,5,8264.462809917355
+Lahore,Sui Gas Housing Society,Sui Gas Housing Society | Lahore,31.453561,74.398513,49,7529.843893480257
+Lahore,Sukh Chayn Gardens,Sukh Chayn Gardens | Lahore,31.391744,74.159746,43,7346.189164370982
+Lahore,Sultan Pura,Sultan Pura | Lahore,31.581615,74.341853,5,7101.316192225283
+Lahore,Sultan Town,Sultan Town | Lahore,31.460297,74.240441,8,8031.25045549288
+Lahore,Sunflower Housing Society,Sunflower Housing Society | Lahore,31.471406,74.253759,5,7713.498622589532
+Lahore,Sunfort Gardens,Sunfort Gardens | Lahore,31.446239,74.252808,19,9041.463586918133
+Lahore,Sunny Park,Sunny Park | Lahore,31.452755,74.258437,10,7309.458218549127
+Lahore,Super Town,Super Town | Lahore,31.492578,74.373529,28,10468.31955922865
+Lahore,Swami Nagar,Swami Nagar | Lahore,31.578462,74.346285,5,8080.80808080808
+Lahore,T & T Aabpara Housing Society,T & T Aabpara Housing Society | Lahore,31.413355,74.239926,26,5509.641873278237
+Lahore,TECH Society,TECH Society | Lahore,31.485113,74.281898,18,11621.900826446281
+Lahore,TIP Housing Society,TIP Housing Society | Lahore,31.384746,74.261613,5,4285.27701254974
+Lahore,Taj Bagh Scheme,Taj Bagh Scheme | Lahore,31.563252,74.413877,80,7009.488827670646
+Lahore,Tajpura,Tajpura | Lahore,31.557474,74.401431,143,6296.733569460842
+Lahore,Tariq Gardens,Tariq Gardens | Lahore,31.420094,74.254174,126,9550.045913682277
+Lahore,Tarogill,Tarogill | Lahore,31.363501,74.208896,5,6529.945923885318
+Lahore,Thokar Niaz Baig,Thokar Niaz Baig | Lahore,31.470693,74.241357,28,5800.428527701255
+Lahore,Toheed Park,Toheed Park | Lahore,31.551046,74.292245,5,10101.0101010101
+Lahore,Township,Township | Lahore,31.451804,74.310436,324,6611.570247933884
+Lahore,Tricon Village,Tricon Village | Lahore,31.409619,74.166126,10,5509.641873278237
+Lahore,UBL Housing Society,UBL Housing Society | Lahore,31.473126,74.413572,5,6611.570247933884
+Lahore,UET Housing Society,UET Housing Society | Lahore,31.408374,74.271255,38,5463.728191000919
+Lahore,Upper Mall,Upper Mall | Lahore,31.542114,74.355898,34,9182.736455463728
+Lahore,Valencia Housing Society,Valencia Housing Society | Lahore,31.40537,74.257078,281,7162.534435261708
+Lahore,Venus Housing Scheme,Venus Housing Scheme | Lahore,31.435547,74.34876,5,7897.153351698807
+Lahore,Wafaqi Colony,Wafaqi Colony | Lahore,31.476585,74.274352,11,6978.879706152434
+Lahore,Wahdat Colony,Wahdat Colony | Lahore,31.515703,74.307303,13,6887.052341597796
+Lahore,Wahdat Road,Wahdat Road | Lahore,31.506008,74.293156,30,9182.736455463728
+Lahore,Walled City,Walled City | Lahore,31.5832975,74.31492800000001,18,7847.065698305367
+Lahore,Walton Railway Officers Colony,Walton Railway Officers Colony | Lahore,31.487894,74.355984,5,5938.169574533211
+Lahore,Walton Road,Walton Road | Lahore,31.477098,74.357271,102,7162.534435261708
+Lahore,Wapda Town,Wapda Town | Lahore,31.432764,74.266148,600,7805.325987144169
+Lahore,Wassanpura,Wassanpura | Lahore,31.589795,74.3365,16,9428.173651047551
+Lahore,West Wood Housing Society,West Wood Housing Society | Lahore,31.465788,74.237881,15,5050.50505050505
+Lahore,Youhanabad,Youhanabad | Lahore,31.411377,74.365253,8,3856.749311294766
+Lahore,Zaheer Villas,Zaheer Villas | Lahore,31.416929,74.287383,21,7346.189164370982
+Lahore,Zaitoon - New Lahore City,Zaitoon - New Lahore City | Lahore,31.350234,74.136994,24,5677.55476846386
+Lahore,Zaman Colony,Zaman Colony | Lahore,31.495177,74.37139,10,9139.00913900914
+Lahore,Zubaida Park,Zubaida Park | Lahore,31.532236,74.290826,14,8448.117539026629
+Rawalpindi,Adiala Road,Adiala Road | Rawalpindi,33.550869,73.056182,623,3893.4802571166206
+Rawalpindi,Afshan Colony,Afshan Colony | Rawalpindi,33.595247,73.023591,69,6244.260789715335
+Rawalpindi,Air Force Housing Society,Air Force Housing Society | Rawalpindi,33.622267,73.100574,6,8356.290174471993
+Rawalpindi,Airport Housing Society,Airport Housing Society | Rawalpindi,33.590885,73.13353,343,5509.641873278237
+Rawalpindi,Airport Road,Airport Road | Rawalpindi,33.609596,73.106396198273,14,4866.850321395776
+Rawalpindi,Al-Haram City - Phase 2,Al-Haram City - Phase 2 | Rawalpindi,33.440284,73.070151,6,2546.678910315274
+Rawalpindi,Al-Noor Colony,Al-Noor Colony | Rawalpindi,33.628011,73.10756,10,7083.825265643447
+Rawalpindi,Ali Town,Ali Town | Rawalpindi,33.553087,73.055075,11,3719.5894503144214
+Rawalpindi,Allahabad Road,Allahabad Road | Rawalpindi,33.614262,73.007731,39,5815.733088460362
+Rawalpindi,Allama Iqbal Colony,Allama Iqbal Colony | Rawalpindi,33.588419,73.018459,13,3550.6580961126415
+Rawalpindi,Amarpura,Amarpura | Rawalpindi,33.622472,73.071652,9,10651.974288337924
+Rawalpindi,Aria Mohalla,Aria Mohalla | Rawalpindi,33.608375,73.066684,5,7199.265381083563
+Rawalpindi,Army Officers Colony,Army Officers Colony | Rawalpindi,33.538274,73.082598,10,6244.260789715336
+Rawalpindi,Asghar Mall Road,Asghar Mall Road | Rawalpindi,33.627636254825,73.060573339462,16,11560.829742647926
+Rawalpindi,Ashraf Colony,Ashraf Colony | Rawalpindi,33.558562,73.026545,11,3232.3232323232323
+Rawalpindi,Askari 1,Askari 1 | Rawalpindi,33.581306,73.087962,7,4462.638277421625
+Rawalpindi,Askari 10,Askari 10 | Rawalpindi,33.586989,73.077743,8,9703.09152127334
+Rawalpindi,Askari 12,Askari 12 | Rawalpindi,33.597588,73.080837,9,11019.283746556473
+Rawalpindi,Askari 13,Askari 13 | Rawalpindi,33.569523,73.064679,23,9182.736455463728
+Rawalpindi,Askari 14,Askari 14 | Rawalpindi,33.543004,73.067576,127,6244.260789715335
+Rawalpindi,Askari 2,Askari 2 | Rawalpindi,33.585054,73.083517,6,3891.545406954382
+Rawalpindi,Askari 3,Askari 3 | Rawalpindi,33.5874,73.081523,6,5028.606162406297
+Rawalpindi,Askari 4,Askari 4 | Rawalpindi,33.584397,73.079805,10,4683.195592286502
+Rawalpindi,Askari 7,Askari 7 | Rawalpindi,33.56103,73.062276,27,5876.951331496786
+Rawalpindi,Aslam Shaheed Road,Aslam Shaheed Road | Rawalpindi,33.567813,73.047253,8,6351.392715029078
+Rawalpindi,Awan Town,Awan Town | Rawalpindi,33.622923,72.988781,10,4912.7640036730945
+Rawalpindi,Ayub Colony,Ayub Colony | Rawalpindi,33.582625,73.10109,16,6821.461366915913
+Rawalpindi,Ayub National Park,Ayub National Park | Rawalpindi,33.567073,73.083193,6,8321.854912764004
+Rawalpindi,Bahria Town Rawalpindi,Bahria Town Rawalpindi | Rawalpindi,33.505403,73.102169,2798,7067.175248993431
+Rawalpindi,Bakra Mandi,Bakra Mandi | Rawalpindi,33.572499,73.038762,9,4897.459442913988
+Rawalpindi,Banaras Colony,Banaras Colony | Rawalpindi,33.591484,73.102738,6,3377.935196117014
+Rawalpindi,Bilal Colony,Bilal Colony | Rawalpindi,33.646551,73.086988,12,12855.831037649219
+Rawalpindi,Bostan Road,Bostan Road | Rawalpindi,33.576262771976,73.101353645325,7,4113.86593204775
+Rawalpindi,Bostan Valley,Bostan Valley | Rawalpindi,33.565685,73.101525,7,7272.727272727273
+Rawalpindi,Caltex Road,Caltex Road | Rawalpindi,33.553583,73.068339,23,5876.951331496786
+Rawalpindi,Cantt,Cantt | Rawalpindi,33.6111315,73.0720165,12,7838.121474485111
+Rawalpindi,Capital Smart City,Capital Smart City | Rawalpindi,33.507121,72.875686,18,7419.2837465564735
+Rawalpindi,Chah Sultan,Chah Sultan | Rawalpindi,33.624,73.075229,5,8264.462809917355
+Rawalpindi,Chaklala,Chaklala | Rawalpindi,33.597539,73.08817,10,3935.4584809130265
+Rawalpindi,Chaklala Scheme,Chaklala Scheme | Rawalpindi,33.656924,73.143826,188,6664.043027679391
+Rawalpindi,Chakra,Chakra | Rawalpindi,33.58932,72.979099,25,3489.439853076217
+Rawalpindi,Chakra Road,Chakra Road | Rawalpindi,33.589588,72.985815,50,3438.4246505458627
+Rawalpindi,Chakri Road,Chakri Road | Rawalpindi,33.543125,72.98946,105,3428.221610039792
+Rawalpindi,Chandni Chowk,Chandni Chowk | Rawalpindi,33.63154,73.072566,6,8920.372556736194
+Rawalpindi,Chanman Abad,Chanman Abad | Rawalpindi,33.587435,73.012751,5,2938.475665748393
+Rawalpindi,Chaudhary Wilayat Khan Road,Chaudhary Wilayat Khan Road | Rawalpindi,33.590196,73.086727,5,4591.368227731864
+Rawalpindi,Chur Chowk,Chur Chowk | Rawalpindi,33.608937,73.010579,6,5739.21028466483
+Rawalpindi,Clifton Township,Clifton Township | Rawalpindi,33.527079,73.064508,12,3562.9017447199267
+Rawalpindi,Commercial Market,Commercial Market | Rawalpindi,33.586109,73.088359,11,10663.822980538524
+Rawalpindi,Committee Chowk,Committee Chowk | Rawalpindi,33.613076543351,73.065555095454,8,9182.736455463728
+Rawalpindi,Defence Road,Defence Road | Rawalpindi,33.536816067733,73.101267814636,65,4591.368227731864
+Rawalpindi,Dhamyal Road,Dhamyal Road | Rawalpindi,33.556438852629,73.024669289589,46,3073.155800428528
+Rawalpindi,Dheri Hassanabad,Dheri Hassanabad | Rawalpindi,33.573545353934,73.051142692566,10,5247.277974550701
+Rawalpindi,Dhok Elahi Baksh,Dhok Elahi Baksh | Rawalpindi,33.611724,73.068216,6,11784.511784511786
+Rawalpindi,Dhok Gujran,Dhok Gujran | Rawalpindi,33.599193,72.990881,11,4244.464850525456
+Rawalpindi,Dhok Kala Khan,Dhok Kala Khan | Rawalpindi,33.653209,73.089802,12,6451.016742611941
+Rawalpindi,Dhok Kashmirian,Dhok Kashmirian | Rawalpindi,33.643,73.083284,35,8815.426997245178
+Rawalpindi,Dhok Mangtal,Dhok Mangtal | Rawalpindi,33.621802540191,73.04135799408,6,6165.551620097074
+Rawalpindi,Dhok Paracha,Dhok Paracha | Rawalpindi,33.640455,73.084095,31,11019.283746556473
+Rawalpindi,Dhok Sayedan Road,Dhok Sayedan Road | Rawalpindi,33.587944907177,73.01358,69,3673.094582185491
+Rawalpindi,Dhoke Banaras Road,Dhoke Banaras Road | Rawalpindi,33.59247,73.01495,14,4009.794918885828
+Rawalpindi,Dhoke Dalal Road,Dhoke Dalal Road | Rawalpindi,33.624887,73.051679,5,7346.189164370982
+Rawalpindi,Dhoke Gangal,Dhoke Gangal | Rawalpindi,33.499095,72.980756,6,5026.01775329048
+Rawalpindi,Dhoke Hassu,Dhoke Hassu | Rawalpindi,33.049786,73.120357,14,5999.387817569635
+Rawalpindi,Dhoke Khabba,Dhoke Khabba | Rawalpindi,33.615274,73.077942,8,5895.316804407714
+Rawalpindi,Dhoke Syedan,Dhoke Syedan | Rawalpindi,33.526416,72.644958,46,4028.160391796755
+Rawalpindi,Faisal Colony,Faisal Colony | Rawalpindi,33.579624,73.038372,15,5968.778696051423
+Rawalpindi,Faizabad,Faizabad | Rawalpindi,33.662514,73.084356,5,3673.094582185491
+Rawalpindi,Farooq-e-Azam Road,Farooq-e-Azam Road | Rawalpindi,33.646747761919,73.089898466933,12,6471.642835279199
+Rawalpindi,Fazaia Colony,Fazaia Colony | Rawalpindi,33.618783,73.115083,5,9947.964493419038
+Rawalpindi,Fazal Town,Fazal Town | Rawalpindi,33.602968,73.117955,9,5876.951331496786
+Rawalpindi,Friends Colony,Friends Colony | Rawalpindi,33.603504,72.997584,7,4775.022956841139
+Rawalpindi,GT Road,GT Road | Rawalpindi,33.495074,73.196914,18,5509.641873278237
+Rawalpindi,Gawal Mandi,Gawal Mandi | Rawalpindi,33.604308,73.059168,6,9149.344686534769
+Rawalpindi,Ghauri Town,Ghauri Town | Rawalpindi,33.622767,73.127074,12,6611.570247933884
+Rawalpindi,Ghaziabad,Ghaziabad | Rawalpindi,33.574537,73.023752,6,3443.526170798898
+Rawalpindi,Ghous-e-Azam Road,Ghous-e-Azam Road | Rawalpindi,33.556512,73.011289,8,3520.048974594429
+Rawalpindi,Girja Road,Girja Road | Rawalpindi,33.564923,72.993558,46,2912.2392758756396
+Rawalpindi,Gulbahar Scheme,Gulbahar Scheme | Rawalpindi,33.588932,73.126821,10,4162.84052647689
+Rawalpindi,Gulistan Colony,Gulistan Colony | Rawalpindi,33.56904,73.095295,55,5509.641873278237
+Rawalpindi,Gulraiz Housing Scheme,Gulraiz Housing Scheme | Rawalpindi,33.5628,73.107144,329,6529.945923885318
+Rawalpindi,Gulshan Abad,Gulshan Abad | Rawalpindi,33.530556,73.061264,201,4224.058769513315
+Rawalpindi,Gulshan-e-Iqbal,Gulshan-e-Iqbal | Rawalpindi,33.551195,73.026159,22,3122.130394857668
+Rawalpindi,Gulzar-e-Quaid Housing Society,Gulzar-e-Quaid Housing Society | Rawalpindi,33.600376,73.130983,68,5349.639647160309
+Rawalpindi,Haji Chowk,Haji Chowk | Rawalpindi,33.630256,73.089402,12,9794.918885827978
+Rawalpindi,Harley Street,Harley Street | Rawalpindi,33.576048,73.044317,23,5843.559562567826
+Rawalpindi,High Court Road,High Court Road | Rawalpindi,33.563238,73.102118,17,5509.641873278237
+Rawalpindi,Ideal Homes Society,Ideal Homes Society | Rawalpindi,33.596446,73.12485,9,5509.641873278237
+Rawalpindi,Islamabad Highway,Islamabad Highway | Rawalpindi,33.600268,73.129443,98,4479.134782165085
+Rawalpindi,Janjua Town,Janjua Town | Rawalpindi,33.544556,73.056127,17,3581.267217630854
+Rawalpindi,Judicial Colony,Judicial Colony | Rawalpindi,33.595729,73.134502,6,7208.4481175390265
+Rawalpindi,KRL Road,KRL Road | Rawalpindi,33.616254337948,73.108488321304,24,6652.382409958167
+Rawalpindi,Kamala Abad,Kamala Abad | Rawalpindi,33.573506,73.031395,5,5509.641873278237
+Rawalpindi,Kartar Pura,Kartar Pura | Rawalpindi,33.624836,73.063598,9,7958.371594735231
+Rawalpindi,Khanna Road,Khanna Road | Rawalpindi,33.628433,73.102067,9,7346.189164370982
+Rawalpindi,Khayaban-e-Sir Syed,Khayaban-e-Sir Syed | Rawalpindi,33.638847,73.048089,77,10407.101316192226
+Rawalpindi,Khayaban-e-Tanveer,Khayaban-e-Tanveer | Rawalpindi,33.584546,73.099647,13,7346.189164370982
+Rawalpindi,Khurram Colony,Khurram Colony | Rawalpindi,33.625787,73.09369,25,8395.644759281124
+Rawalpindi,Kurri Road,Kurri Road | Rawalpindi,33.635881398191,73.090796470642,25,6887.052341597796
+Rawalpindi,Lalarukh Colony,Lalarukh Colony | Rawalpindi,33.559778,73.013309,8,3673.094582185491
+Rawalpindi,Lalazar,Lalazar | Rawalpindi,33.566573,73.056579,56,5142.332415059688
+Rawalpindi,Lalazar 2,Lalazar 2 | Rawalpindi,33.551679,73.02683,13,3305.785123966942
+Rawalpindi,Lalkurti,Lalkurti | Rawalpindi,33.582028,73.058222,8,6814.557053791503
+Rawalpindi,Liaquat Bagh,Liaquat Bagh | Rawalpindi,33.606164,73.064503,7,5509.641873278237
+Rawalpindi,Liaquat Colony,Liaquat Colony | Rawalpindi,33.560965,73.018478,16,2846.6483011937557
+Rawalpindi,Mangral Town,Mangral Town | Rawalpindi,33.613702,73.118296,22,5968.778696051423
+Rawalpindi,Media Town,Media Town | Rawalpindi,33.560887,73.125937,166,7452.33369866801
+Rawalpindi,Misryal Road,Misryal Road | Rawalpindi,33.600512236519,72.998030662602,163,4407.713498622589
+Rawalpindi,Morgah,Morgah | Rawalpindi,33.544399,73.072507,22,4847.173028991211
+Rawalpindi,Mumtaz Colony,Mumtaz Colony | Rawalpindi,33.560583,73.058993,9,5968.778696051423
+Rawalpindi,Munawar Colony,Munawar Colony | Rawalpindi,33.55048,73.059787,15,3673.094582185491
+Rawalpindi,Murree Road,Murree Road | Rawalpindi,33.657522,73.082898,14,11920.861507638367
+Rawalpindi,Muslim Town,Muslim Town | Rawalpindi,33.62861,73.092252,73,8570.55402509948
+Rawalpindi,Nawaz Colony,Nawaz Colony | Rawalpindi,33.594686,73.125371,6,4224.0587695133145
+Rawalpindi,New Afzal Town,New Afzal Town | Rawalpindi,33.590349,73.106135,12,4224.0587695133145
+Rawalpindi,New Lalazar,New Lalazar | Rawalpindi,33.561043,73.070615,40,6035.562233909341
+Rawalpindi,Others,Others | Rawalpindi,33.5984,73.0441,13,6978.879706152434
+Rawalpindi,PIA Colony,PIA Colony | Rawalpindi,33.603452,73.011125,12,6378.940924395471
+Rawalpindi,PWD Colony,PWD Colony | Rawalpindi,33.570881,73.145235,6,4646.464646464647
+Rawalpindi,Palm City,Palm City | Rawalpindi,33.583085,73.107189,9,4040.40404040404
+Rawalpindi,Peer Meher Ali Shah Town,Peer Meher Ali Shah Town | Rawalpindi,33.544952,72.997505,14,3305.785123966942
+Rawalpindi,People Colony,People Colony | Rawalpindi,33.593326,73.028933,16,4621.977349250076
+Rawalpindi,Peshawar Road,Peshawar Road | Rawalpindi,33.602664,73.030196,129,6611.570247933884
+Rawalpindi,Pindora,Pindora | Rawalpindi,33.64351839448,73.07051897049,13,9550.045913682277
+Rawalpindi,Pir Wadhai,Pir Wadhai | Rawalpindi,33.632022,73.039205,15,6296.733569460842
+Rawalpindi,Police Foundation Housing Scheme,Police Foundation Housing Scheme | Rawalpindi,33.566321,73.133953,6,5234.159779614325
+Rawalpindi,Professors Colony,Professors Colony | Rawalpindi,33.636346,73.103449,5,7249.528780629259
+Rawalpindi,Punjab Government Servant Housing Foundation (PGSHF),Punjab Government Servant Housing Foundation (PGSHF) | Rawalpindi,33.517469,73.046617,6,2350.780532598714
+Rawalpindi,Qasimabad,Qasimabad | Rawalpindi,33.620748,73.073004,5,6611.570247933884
+Rawalpindi,Quaid-e-Azam Colony,Quaid-e-Azam Colony | Rawalpindi,33.564463,73.021138,19,3526.1707988980716
+Rawalpindi,Race Course,Race Course | Rawalpindi,33.604415,73.035947,7,6887.052341597796
+Rawalpindi,Rail View Housing Society,Rail View Housing Society | Rawalpindi,33.596886,73.119657,31,4775.022956841139
+Rawalpindi,Railway Scheme 9,Railway Scheme 9 | Rawalpindi,33.59606,73.127045,6,4820.936639118458
+Rawalpindi,Range Road,Range Road | Rawalpindi,33.59859301251,73.018003463876,136,6535.536631011932
+Rawalpindi,Rawal Road,Rawal Road | Rawalpindi,33.615064,73.081743,6,8677.685950413223
+Rawalpindi,Rawat,Rawat | Rawalpindi,33.4897,73.1969,10,2816.0391796755434
+Rawalpindi,Rehmanabad,Rehmanabad | Rawalpindi,33.636516,73.075168,5,16528.92561983471
+Rawalpindi,Sabzazar,Sabzazar | Rawalpindi,33.578663,73.055352,5,6034.369670733307
+Rawalpindi,Saddar,Saddar | Rawalpindi,33.596104,73.053582,16,7713.498622589532
+Rawalpindi,Sadiqa Abad,Sadiqa Abad | Rawalpindi,33.63238,73.080232,22,8539.944903581267
+Rawalpindi,Sadiqabad,Sadiqabad | Rawalpindi,33.632397631087,73.080732822418,54,7835.935108662381
+Rawalpindi,Safari View Residencia,Safari View Residencia | Rawalpindi,33.57898,73.112934,10,2810.47388485405
+Rawalpindi,Saidpur Road,Saidpur Road | Rawalpindi,33.638391409706,73.063126802445,18,9600.133567075714
+Rawalpindi,Samarzar Housing Society,Samarzar Housing Society | Rawalpindi,33.527739,73.044534,73,3085.3994490358127
+Rawalpindi,Sangar Town,Sangar Town | Rawalpindi,33.612671,73.119396,13,5815.733088460362
+Rawalpindi,Satellite Town,Satellite Town | Rawalpindi,33.638436,73.074342,196,13616.68634395907
+Rawalpindi,Shah Khalid Colony,Shah Khalid Colony | Rawalpindi,33.603968,73.113964,7,4775.022956841139
+Rawalpindi,Shaheen Town,Shaheen Town | Rawalpindi,33.610152,73.121989,5,5876.951331496786
+Rawalpindi,Shakrial,Shakrial | Rawalpindi,33.633452,73.09963,19,6427.9155188246095
+Rawalpindi,Shalley Valley,Shalley Valley | Rawalpindi,33.597548,73.014176,103,6427.9155188246095
+Rawalpindi,Shams Abad,Shams Abad | Rawalpindi,33.651485,73.08069,12,9783.78829618499
+Rawalpindi,Sher Zaman Colony,Sher Zaman Colony | Rawalpindi,33.563506,73.044523,24,4808.414725770097
+Rawalpindi,Sir Syed Chowk,Sir Syed Chowk | Rawalpindi,33.646199,72.979628,7,6611.570247933884
+Rawalpindi,Tench Bhata,Tench Bhata | Rawalpindi,33.584665,73.035436,18,4984.914075823167
+Rawalpindi,Transformer Chowk,Transformer Chowk | Rawalpindi,33.633484,73.087673,8,8044.077134986226
+Rawalpindi,Tulsa Road,Tulsa Road | Rawalpindi,33.567664,73.052858,72,5509.641873278237
+Rawalpindi,Walait Homes,Walait Homes | Rawalpindi,33.600327,73.091517,6,5968.778696051423
+Rawalpindi,Wazir Town,Wazir Town | Rawalpindi,33.595514,73.116757,9,4271.040211843595
+Rawalpindi,Westridge,Westridge | Rawalpindi,33.614905,73.021817,105,7063.643427279791
+Rawalpindi,Yousaf Colony,Yousaf Colony | Rawalpindi,33.580696,73.1015,14,6585.333858061131

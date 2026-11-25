@@ -1,0 +1,10 @@
+step,rows,note
+0. Raw data,168446,
+0b. Keep only For Sale listings,120655,
+1. Remove duplicates,82332,
+2. Drop rows missing price/area/city/location,82332,
+3. Fill bedrooms/baths/lat/lon (median),82332,
+4. Remove impossible values,82190,
+5. Keep cities with enough listings,82190,cities: 5
+6. Remove price-per-sqft outliers,80566,
+7. Feature engineering done,80566,columns: 17

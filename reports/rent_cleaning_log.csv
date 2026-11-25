@@ -1,0 +1,10 @@
+step,rows,note
+0. Raw data,168446,
+0b. Keep only 'For Rent' listings,47791,
+1. Remove duplicates,32408,
+2. Drop rows missing price/area/city/location,32408,
+3. Fill bedrooms/baths/lat/lon (median),32408,
+4. Remove impossible values,32363,
+5. Keep cities with enough listings,32363,cities: 4
+6. Remove price-per-sqft outliers,31732,
+7. Feature engineering done,31732,columns: 17

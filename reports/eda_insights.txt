@@ -1,0 +1,6 @@
+- Price skewness = 5.52; after log transform = 0.37. So the models predict log(price).
+- Most expensive city per sq ft: Lahore (7,713 PKR/sqft); cheapest: Rawalpindi (6,169 PKR/sqft).
+- Correlation between log(area) and log(price) = 0.87 (area is the strongest numeric driver).
+- Correlation with price: area_sqft=0.74, bedrooms=0.34, baths=0.27, dist_to_center_km=-0.01.
+- Most expensive locality: Navy Housing Scheme Karsaz | Karachi (23,584 PKR/sqft). Location explains a lot of price, which is why locality is target-encoded.
+- Dataset after cleaning: 80,566 listings, 5 cities, 1509 localities, 7 property types.
